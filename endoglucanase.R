@@ -19,19 +19,23 @@ setwd("/Users/lorishapiro/Dropbox/AncientDNA/Expansin-endoglucanase-phylogeny/")
 annot <- read.csv("endoglucanase.gh5.annotations.R.txt", header=T, sep="\t")
 names(annot)
 
+raxml_file <- system.file("gh5.RAxML_bipartitions.result") ## Need to figure out how to get the bootstrap values into the tree!
+bootstrap <- read.raxml(raxml_file)
+
 nwk <- ("gh5.rename.nwk")
 tree <- read.tree(nwk)
+str(tree)
 
 p <- ggtree(tree)
 p <- p %<+% annot
-str(tree)
+str(p)
+dim(p)
+
+tree$node.label # Obtain internal node labels
+tree$tip.label # Obtain internal node labels
 
 # Display internal node numbers
 ggtree(tree) + geom_text2(aes(subset=!isTip, label=node), hjust=-.3) + geom_tiplab(size=3, color="black")
-
-#define colors for taxonomy coloring
-colors1<-c("#a6cee3", "#1f78b4", "#b15928", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c", "#fdbf6f", "#ff7f00", "#cab2d6", "#6a3d9a", "#cccc3d")
-colors2<-c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#fdbf6f", "#ff7f00", "#cab2d6", "#6a3d9a", "#FFFF4D", "#b15928")
 
 cls <- list(c1=(.node=c(129)), # Firmicutes
             c1=(.node=c(140)), # Firmicutes
@@ -52,21 +56,16 @@ tree <- groupClade(tree, cls)
 
 p <- ggplot(tree, aes(color=group)) + 
   geom_tree() + 
+  geom_nodelab() +
   theme_tree() + 
   geom_treescale() +
-  geom_tiplab(size=2, color="black") 
-p + 
-#  geom_cladelabel(node=129, label="Bacillales", align=TRUE, offset=.001) +
-#  geom_cladelabel(node=140, label="Bacillales", align=TRUE) +
-#  geom_cladelabel(node=125, label="Myxobacteria", align=TRUE) +
-#  geom_cladelabel(node=147, label="Bacteroidales", align=TRUE) +
-#  geom_cladelabel(node=112, label="Vibrionales", align=TRUE) +
-#  geom_cladelabel(node=106, label="Vibrionales", align=TRUE) +
-#  geom_cladelabel(node=108, label="Vibrionales", align=TRUE) +
-#  geom_cladelabel(node=90, label="Nematodes", align=TRUE) +
-  geom_cladelabel(node=142, label="Enterobacteriales", align=TRUE) +
-  geom_cladelabel(node=116, label="Enterobacteriales", align=TRUE) +
-  geom_cladelabel(node=121, label="Enterobacteriales", align=TRUE) 
+  geom_tiplab(geom = "text", size=2.3, color="black") 
+p + ggtitle("Glycoside Hydrolase 5 Phylogeny") +
+  theme(plot.title = element_text(lineheight=.8, face="bold", hjust=0.5)) +
+  geom_cladelabel(node=90, label="Nematodes", align=TRUE, offset = 0.25) +
+  geom_cladelabel(node=142, label="Enterobacteriaceae", align=TRUE) +
+  geom_cladelabel(node=116, label="Enterobacteriaceae", align=TRUE) +
+  geom_cladelabel(node=121, label="Enterobacteriaceae", align=TRUE) 
 
 
 
