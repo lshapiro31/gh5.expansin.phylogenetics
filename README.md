@@ -1,4 +1,4 @@
-# File and workflow descriptions
+# Descriptions of files
 
 # Original, unaligned fasta files with BLASTP results and full headers
 
@@ -15,9 +15,7 @@ gh5.final.aln
 expansin.final.nwk
 gh5.final.nwk
 
-# R-scripts
-
-# R package called genoPlotR was used to create Figure 1a genomic context of Et-exlx-gh5 locus
+# Plotting Figure 1a genomic context of Et-exlx-gh5 locus
 
 expansin-locusFigure.R 
 
