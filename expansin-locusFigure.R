@@ -1,4 +1,4 @@
-setwd("/Users/lorishapiro/Dropbox/R_Figures")
+setwd("~Dropbox/R_Figures")
 
 library(genoPlotR)
 library(dplyr)
@@ -30,5 +30,5 @@ is.dna_seg(dna_seg1)
 mid <- middle(dna_segs[[1]])
 
 plot_gene_map(dna_segs = dna_segs, 
-              main = "Expansin locus",
+              main = "Expansin-GH5 Operon",
               scale=TRUE)
