@@ -29,7 +29,7 @@ select(annot, NCBI.Genus.species, label, Kingdom, Phylum, Class, Group, Color.Cl
 # sumtrees.py -F newick RAxML_bootstrap.result > expansin.9.tre
 ## Then further edited in text editor:
 ## bootstraps from decimal to 0-100 scale
-nwk <- ("expansin.9.tre") ## raxml output from sumtrees.py
+nwk <- ("expansin.final.nwk") ## raxml output from sumtrees.py
 
 tree_exp <- read.tree(nwk)
 str(tree_exp)

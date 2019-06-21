@@ -25,7 +25,7 @@ str(annot)  # Read in as a tibble
 names(annot)
 select(annot, NCBI.Genus.species, label, Kingdom, Phylum, Class, Group, Color.Clade)  ## Reorder columns
 
-nwk <- ("gh5.new.nwk2") ## raxml output from sumtrees.py
+nwk <- ("gh5.final.nwk") ## raxml output from sumtrees.py
 
 tree.gh5 <- read.tree(nwk)
 str(tree.gh5)
