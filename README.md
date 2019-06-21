@@ -1,4 +1,4 @@
-# Analysis scripts to understand the role of a locus with an expansin and a glycoside hydrolase family 5 coding sequence for Erwinia tracheiphila virulence
+# File and workflow descriptions
 
 # Original, unaligned fasta files with BLASTP results and full headers
 
