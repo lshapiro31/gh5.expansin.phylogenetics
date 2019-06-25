@@ -1,0 +1,726 @@
+WARNING! Repeated argument "MtMam". New value is T
+WARNING! Repeated argument "Blosum62". New value is T
+WARNING! Repeated argument "HIVw". New value is T
+WARNING! Repeated argument "Dayhoff". New value is T
+WARNING! Repeated argument "JTT". New value is T
+WARNING! Repeated argument "HIVb". New value is T
+WARNING! Repeated argument "MtArt". New value is T
+WARNING! Repeated argument "FLU". New value is T
+WARNING! Repeated argument "MtREV". New value is T
+WARNING! Repeated argument "DCMut". New value is T
+WARNING! Repeated argument "CpREV". New value is T
+WARNING! Repeated argument "RtREV". New value is T
+WARNING! Repeated argument "LG". New value is T
+WARNING! Repeated argument "WAG". New value is T
+WARNING! Repeated argument "VT". New value is T
+FASTA format detected.MSA read in FASTA format (Taxa = 105, Length =  238).WARNING: ID for sequence "WP_089295468.1" is longer than 10 characters. ID truncated to "WP_0892954"WARNING: ID for sequence "WP_051809964.1" is longer than 10 characters. ID truncated to "WP_0518099"WARNING: ID for sequence "WP_020514240.1" is longer than 10 characters. ID truncated to "WP_0205142"WARNING: ID for sequence "WP_112672421.1" is longer than 10 characters. ID truncated to "WP_1126724"WARNING: ID for sequence "WP_112582199.1" is longer than 10 characters. ID truncated to "WP_1125821"WARNING: ID for sequence "WP_084597808.1" is longer than 10 characters. ID truncated to "WP_0845978"WARNING: ID for sequence "WP_089021700.1" is longer than 10 characters. ID truncated to "WP_0890217"WARNING: ID for sequence "WP_013284385.1" is longer than 10 characters. ID truncated to "WP_0132843"WARNING: ID for sequence "WP_091580931.1" is longer than 10 characters. ID truncated to "WP_0915809"WARNING: ID for sequence "WP_091269596.1" is longer than 10 characters. ID truncated to "WP_0912695"WARNING: ID for sequence "WP_091312943.1" is longer than 10 characters. ID truncated to "WP_0913129"WARNING: ID for sequence "WP_088977730.1" is longer than 10 characters. ID truncated to "WP_0889777"WARNING: ID for sequence "WP_052129167.1" is longer than 10 characters. ID truncated to "WP_0521291"WARNING: ID for sequence "WP_026468149.1" is longer than 10 characters. ID truncated to "WP_0264681"WARNING: ID for sequence "WP_013225816.1" is longer than 10 characters. ID truncated to "WP_0132258"WARNING: ID for sequence "WP_037738130.1" is longer than 10 characters. ID truncated to "WP_0377381"WARNING: ID for sequence "WP_030660953.1" is longer than 10 characters. ID truncated to "WP_0306609"WARNING: ID for sequence "WP_010357835.1" is longer than 10 characters. ID truncated to "WP_0103578"WARNING: ID for sequence "WP_051948692.1" is longer than 10 characters. ID truncated to "WP_0519486"WARNING: ID for sequence "WP_009327266.1" is longer than 10 characters. ID truncated to "WP_0093272"WARNING: ID for sequence "WP_051866281.1" is longer than 10 characters. ID truncated to "WP_0518662"WARNING: ID for sequence "WP_084692373.1" is longer than 10 characters. ID truncated to "WP_0846923"WARNING: ID for sequence "WP_018501567.1" is longer than 10 characters. ID truncated to "WP_0185015"WARNING: ID for sequence "WP_106410277.1" is longer than 10 characters. ID truncated to "WP_1064102"WARNING: ID for sequence "WP_083819595.1" is longer than 10 characters. ID truncated to "WP_0838195"WARNING: ID for sequence "WP_010459029.1" is longer than 10 characters. ID truncated to "WP_0104590"WARNING: ID for sequence "WP_071900596.1" is longer than 10 characters. ID truncated to "WP_0719005"WARNING: ID for sequence "WP_095988756.1" is longer than 10 characters. ID truncated to "WP_0959887"WARNING: ID for sequence "WP_053066978.1" is longer than 10 characters. ID truncated to "WP_0530669"WARNING: ID for sequence "WP_043394862.1" is longer than 10 characters. ID truncated to "WP_0433948"WARNING: ID for sequence "WP_046714021.1" is longer than 10 characters. ID truncated to "WP_0467140"WARNING: ID for sequence "WP_090491481.1" is longer than 10 characters. ID truncated to "WP_0904914"WARNING: ID for sequence "WP_121755116.1" is longer than 10 characters. ID truncated to "WP_1217551"WARNING: ID for sequence "WP_120623608.1" is longer than 10 characters. ID truncated to "WP_1206236"WARNING: ID for sequence "WP_120208089.1" is longer than 10 characters. ID truncated to "WP_1202080"WARNING: ID for sequence "WP_110514480.1" is longer than 10 characters. ID truncated to "WP_1105144"WARNING: ID for sequence "WP_083469781.1" is longer than 10 characters. ID truncated to "WP_0834697"WARNING: ID for sequence "WP_045757832.1" is longer than 10 characters. ID truncated to "WP_0457578"WARNING: ID for sequence "WP_064509384.1" is longer than 10 characters. ID truncated to "WP_0645093"WARNING: ID for sequence "WP_047697265.1" is longer than 10 characters. ID truncated to "WP_0476972"WARNING: ID for sequence "WP_116906983.1" is longer than 10 characters. ID truncated to "WP_1169069"WARNING: ID for sequence "WP_104616761.1" is longer than 10 characters. ID truncated to "WP_1046167"WARNING: ID for sequence "WP_104585882.1" is longer than 10 characters. ID truncated to "WP_1045858"WARNING: ID for sequence "WP_080764502.1" is longer than 10 characters. ID truncated to "WP_0807645"WARNING: ID for sequence "WP_115556816.1" is longer than 10 characters. ID truncated to "WP_1155568"WARNING: ID for sequence "WP_031340658.1" is longer than 10 characters. ID truncated to "WP_0313406"WARNING: ID for sequence "WP_104602509.1" is longer than 10 characters. ID truncated to "WP_1046025"WARNING: ID for sequence "WP_057661402.1" is longer than 10 characters. ID truncated to "WP_0576614"WARNING: ID for sequence "WP_017155506.1" is longer than 10 characters. ID truncated to "WP_0171555"WARNING: ID for sequence "WP_065467434.1" is longer than 10 characters. ID truncated to "WP_0654674"WARNING: ID for sequence "WP_075250529.1" is longer than 10 characters. ID truncated to "WP_0752505"WARNING: ID for sequence "WP_015392602.1" is longer than 10 characters. ID truncated to "WP_0153926"WARNING: ID for sequence "WP_077846758.1" is longer than 10 characters. ID truncated to "WP_0778467"WARNING: ID for sequence "WP_044645140.1" is longer than 10 characters. ID truncated to "WP_0446451"WARNING: ID for sequence "WP_104497098.1" is longer than 10 characters. ID truncated to "WP_1044970"WARNING: ID for sequence "WP_049828188.1" is longer than 10 characters. ID truncated to "WP_0498281"WARNING: ID for sequence "WP_090915207.1" is longer than 10 characters. ID truncated to "WP_0909152"WARNING: ID for sequence "WP_124115839.1" is longer than 10 characters. ID truncated to "WP_1241158"WARNING: ID for sequence "WP_087071317.1" is longer than 10 characters. ID truncated to "WP_0870713"WARNING: ID for sequence "WP_046214136.1" is longer than 10 characters. ID truncated to "WP_0462141"WARNING: ID for sequence "WP_079287833.1" is longer than 10 characters. ID truncated to "WP_0792878"WARNING: ID for sequence "WP_120028140.1" is longer than 10 characters. ID truncated to "WP_1200281"WARNING: ID for sequence "WP_024715443.1" is longer than 10 characters. ID truncated to "WP_0247154"WARNING: ID for sequence "WP_010334489.1" is longer than 10 characters. ID truncated to "WP_0103344"WARNING: ID for sequence "WP_105955711.1" is longer than 10 characters. ID truncated to "WP_1059557"WARNING: ID for sequence "WP_075223561.1" is longer than 10 characters. ID truncated to "WP_0752235"WARNING: ID for sequence "WP_048355312.1" is longer than 10 characters. ID truncated to "WP_0483553"WARNING: ID for sequence "WP_006636271.1" is longer than 10 characters. ID truncated to "WP_0066362"WARNING: ID for sequence "WP_061669738.1" is longer than 10 characters. ID truncated to "WP_0616697"WARNING: ID for sequence "WP_096881597.1" is longer than 10 characters. ID truncated to "WP_0968815"WARNING: ID for sequence "WP_024718945.1" is longer than 10 characters. ID truncated to "WP_0247189"WARNING: ID for sequence "WP_039963993.1" is longer than 10 characters. ID truncated to "WP_0399639"WARNING: ID for sequence "WP_041091967.1" is longer than 10 characters. ID truncated to "WP_0410919"WARNING: ID for sequence "WP_041506998.1" is longer than 10 characters. ID truncated to "WP_0415069"WARNING: ID for sequence "WP_060747957.1" is longer than 10 characters. ID truncated to "WP_0607479"WARNING: ID for sequence "WP_043094747.1" is longer than 10 characters. ID truncated to "WP_0430947"WARNING: ID for sequence "WP_038269744.1" is longer than 10 characters. ID truncated to "WP_0382697"WARNING: ID for sequence "WP_057682423.1" is longer than 10 characters. ID truncated to "WP_0576824"WARNING: ID for sequence "WP_120452416.1" is longer than 10 characters. ID truncated to "WP_1204524"WARNING: ID for sequence "WP_118883644.1" is longer than 10 characters. ID truncated to "WP_1188836"WARNING: ID for sequence "WP_112092347.1" is longer than 10 characters. ID truncated to "WP_1120923"WARNING: ID for sequence "WP_094101202.1" is longer than 10 characters. ID truncated to "WP_0941012"WARNING: ID for sequence "WP_026740116.1" is longer than 10 characters. ID truncated to "WP_0267401"WARNING: ID for sequence "WP_094118757.1" is longer than 10 characters. ID truncated to "WP_0941187"WARNING: ID for sequence "WP_011093777.1" is longer than 10 characters. ID truncated to "WP_0110937"WARNING: ID for sequence "WP_014700026.1" is longer than 10 characters. ID truncated to "WP_0147000"WARNING: ID for sequence "WP_005968506.1" is longer than 10 characters. ID truncated to "WP_0059685"WARNING: ID for sequence "WP_107169525.1" is longer than 10 characters. ID truncated to "WP_1071695"WARNING: ID for sequence "WP_113627469.1" is longer than 10 characters. ID truncated to "WP_1136274"WARNING: ID for sequence "WP_095699491.1" is longer than 10 characters. ID truncated to "WP_0956994"WARNING: ID for sequence "WP_039349077.1" is longer than 10 characters. ID truncated to "WP_0393490"WARNING: ID for sequence "WP_113865163.1" is longer than 10 characters. ID truncated to "WP_1138651"WARNING: ID for sequence "WP_123131007.1" is longer than 10 characters. ID truncated to "WP_1231310"WARNING: ID for sequence "WP_038902668.1" is longer than 10 characters. ID truncated to "WP_0389026"WARNING: ID for sequence "WP_022633560.1" is longer than 10 characters. ID truncated to "WP_0226335"WARNING: ID for sequence "WP_027712074.1" is longer than 10 characters. ID truncated to "WP_0277120"WARNING: ID for sequence "WP_081634336.1" is longer than 10 characters. ID truncated to "WP_0816343"WARNING: ID for sequence "WP_041164926.1" is longer than 10 characters. ID truncated to "WP_0411649"WARNING: ID for sequence "MDCuke-Etr3270" is longer than 10 characters. ID truncated to "MDCuke-Etr"WARNING: ID for sequence "WP_044243227.1" is longer than 10 characters. ID truncated to "WP_0442432"MSA successfully converted to PHYLIP format!
+
+----------------------------------------------------------------------------------------------
+ProtTest 3.4.2                      Fast selection of the best-fit models of protein evolution
+(c) 2009-2016   Diego Darriba (1,2), Guillermo Taboada (2), Ramón Doallo (2), David Posada (1)
+(1)                               Facultad de Biologia, Universidad de Vigo, 36200 Vigo, Spain
+(2)                    Facultade de Informática, Universidade da Coruña, 15071 A Coruña, Spain
+----------------------------------------------------------------------------------------------
+Manual:                                    http://darwin.uvigo.es/download/prottest_manual.pdf
+Homepage:                                                 http://github.com/ddarriba/prottest3
+Discussion group:                                     https://groups.google.com/group/prottest
+Contact:                                                  ddarriba@h-its.org, dposada@uvigo.es
+----------------------------------------------------------------------------------------------
+
+Version:  3.4.2 : 8th May 2016
+Date:     Thu Jan 31 22:07:48 EST 2019
+OS:       Mac OS X (10.12.6)
+Arch:     x86_64
+Java:     1.8.0_121 (Oracle Corporation)
+PhyML:    /Users/lorishapiro/Dropbox/AncientDNA/Expansin-endoglucanase-phylogeny/prottest-3.4.2/bin/PhyML_3.0_macOS_i386
+
+Citation: Darriba D, Taboada GL, Doallo R, Posada D. ProtTest 3: fast selection of best-fit 
+          models of protein evolution. Bioinformatics, 27:1164-1165, 2011
+
+
+ProtTest options
+----------------
+  Alignment file........... : expansin-trim4.aln
+  Tree..................... : BioNJ
+  StrategyMode............. : Fixed BIONJ JTT
+  Candidate models......... : 
+    Matrices............... : JTT LG DCMut MtREV MtMam MtArt Dayhoff WAG RtREV CpREV Blosum62 VT HIVb HIVw FLU 
+    Distributions.......... : Uniform +G +I +I+G 
+    Observed frequencies... : false
+
+  Statistical framework
+    Sort models according to....: 
+       BIC 
+    Sample size.................: 238.0
+  Other options:
+    Display best tree in ASCII..: false
+    Display best tree in Newick.: false
+    Display consensus tree......: false
+    Verbose.....................: false
+
+**********************************************************
+Observed number of invariant sites: 5
+Observed aminoacid frequencies:
+ A: 0.094    C: 0.011    D: 0.053    E: 0.035    F: 0.026   
+ G: 0.108    H: 0.015    I: 0.057    K: 0.052    L: 0.068   
+ M: 0.016    N: 0.050    P: 0.062    Q: 0.037    R: 0.042   
+ S: 0.062    T: 0.064    V: 0.077    W: 0.020    Y: 0.051   
+
+**********************************************************
+
+Computing JTT+I+G...
+Computing LG+I+G...
+Computed: LG+I+G (-14477.69642)
+Computing DCMut+I+G...
+Computed: JTT+I+G (-14583.91674)
+Computing MtREV+I+G...
+Computed: MtREV+I+G (-15367.67733)
+Computing MtMam+I+G...
+Computed: DCMut+I+G (-14620.95393)
+Computing MtArt+I+G...
+Computed: MtMam+I+G (-15868.66347)
+Computing Dayhoff+I+G...
+Computed: MtArt+I+G (-15853.62626)
+Computing WAG+I+G...
+Computed: Dayhoff+I+G (-14620.27371)
+Computing RtREV+I+G...
+Computed: WAG+I+G (-14439.86403)
+Computing CpREV+I+G...
+Computed: RtREV+I+G (-14607.29429)
+Computing Blosum62+I+G...
+Computed: CpREV+I+G (-14597.32189)
+Computing VT+I+G...
+Computed: Blosum62+I+G (-14622.90121)
+Computing HIVb+I+G...
+Computed: VT+I+G (-14508.39455)
+Computing HIVw+I+G...
+Computed: HIVb+I+G (-14989.58305)
+Computing FLU+I+G...
+Computed: HIVw+I+G (-15588.61602)
+Computing JTT+G...
+Computed: FLU+I+G (-14809.95137)
+Computing LG+G...
+Computed: JTT+G (-14587.2754)
+Computing DCMut+G...
+Computed: LG+G (-14479.82337)
+Computing MtREV+G...
+Computed: DCMut+G (-14624.99432)
+Computing MtMam+G...
+Computed: MtREV+G (-15371.91209)
+Computing MtArt+G...
+Computed: MtMam+G (-15872.79285)
+Computing Dayhoff+G...
+Computed: Dayhoff+G (-14624.30561)
+Computing WAG+G...
+Computed: MtArt+G (-15857.62474)
+Computing RtREV+G...
+Computed: WAG+G (-14442.2582)
+Computing CpREV+G...
+Computed: RtREV+G (-14609.14968)
+Computing Blosum62+G...
+Computed: Blosum62+G (-14624.94604)
+Computing VT+G...
+Computed: CpREV+G (-14598.46527)
+Computing HIVb+G...
+Computed: VT+G (-14511.28131)
+Computing HIVw+G...
+Computed: HIVb+G (-14995.91859)
+Computing FLU+G...
+Computed: HIVw+G (-15593.38392)
+Computing JTT+I...
+Computed: JTT+I (-15061.37643)
+Computing LG+I...
+Computed: LG+I (-14985.22691)
+Computing DCMut+I...
+Computed: DCMut+I (-15103.97839)
+Computing MtREV+I...
+Computed: MtREV+I (-16035.4418)
+Computing MtMam+I...
+Computed: MtMam+I (-16909.3387)
+Computed: FLU+G (-14813.31846)
+Computing Dayhoff+I...
+Computing MtArt+I...
+Computed: MtArt+I (-16869.89669)
+Computing WAG+I...
+Computed: Dayhoff+I (-15104.24482)
+Computing RtREV+I...
+Computed: WAG+I (-14888.43982)
+Computing CpREV+I...
+Computed: RtREV+I (-15109.57132)
+Computing Blosum62+I...
+Computed: CpREV+I (-15093.3569)
+Computing VT+I...
+Computed: Blosum62+I (-15074.90308)
+Computing HIVb+I...
+Computed: VT+I (-14945.69008)
+Computing HIVw+I...
+Computed: HIVb+I (-15573.89176)
+Computing FLU+I...
+Computed: HIVw+I (-16241.53406)
+Computing JTT...
+Computed: FLU+I (-15413.27495)
+Computing LG...
+Computed: JTT (-15130.22668)
+Computing DCMut...
+Computed: LG (-15045.78051)
+Computing MtREV...
+Computed: MtREV (-16094.05744)
+Computing MtMam...
+Computed: DCMut (-15176.96358)
+Computing MtArt...
+Computed: MtMam (-16973.50269)
+Computing Dayhoff...
+Computed: MtArt (-16938.66415)
+Computing WAG...
+Computed: Dayhoff (-15177.24106)
+Computed: WAG (-14945.06859)
+Computing RtREV...
+Computing CpREV...
+Computed: RtREV (-15164.16729)
+Computing Blosum62...
+Computed: CpREV (-15144.12413)
+Computing VT...
+Computed: Blosum62 (-15130.19753)
+Computing HIVb...
+Computed: VT (-15007.76553)
+Computing HIVw...
+Computed: HIVb (-15661.0775)
+Computing FLU...
+Computed: HIVw (-16329.0081)
+Computed: FLU (-15484.83992)
+
+
+Model................................ : JTT
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15130.23
+     (seconds))
+
+Model................................ : JTT+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.035
+ -lnL................................ = 15061.38
+     (seconds))
+
+Model................................ : JTT+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.257
+ -lnL................................ = 14587.28
+     (seconds))
+
+Model................................ : JTT+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.392
+    proportion of invariable sites... = 0.021
+ -lnL................................ = 14583.92
+     (seconds))
+
+Model................................ : LG
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15045.78
+     (seconds))
+
+Model................................ : LG+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.034
+ -lnL................................ = 14985.23
+     (seconds))
+
+Model................................ : LG+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.155
+ -lnL................................ = 14479.82
+     (seconds))
+
+Model................................ : LG+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.248
+    proportion of invariable sites... = 0.018
+ -lnL................................ = 14477.70
+     (seconds))
+
+Model................................ : DCMut
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15176.96
+     (seconds))
+
+Model................................ : DCMut+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.035
+ -lnL................................ = 15103.98
+     (seconds))
+
+Model................................ : DCMut+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.236
+ -lnL................................ = 14624.99
+     (seconds))
+
+Model................................ : DCMut+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.398
+    proportion of invariable sites... = 0.021
+ -lnL................................ = 14620.95
+     (seconds))
+
+Model................................ : MtREV
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 16094.06
+     (seconds))
+
+Model................................ : MtREV+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.028
+ -lnL................................ = 16035.44
+     (seconds))
+
+Model................................ : MtREV+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.055
+ -lnL................................ = 15371.91
+     (seconds))
+
+Model................................ : MtREV+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.118
+    proportion of invariable sites... = 0.014
+ -lnL................................ = 15367.68
+     (seconds))
+
+Model................................ : MtMam
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 16973.50
+     (seconds))
+
+Model................................ : MtMam+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.025
+ -lnL................................ = 16909.34
+     (seconds))
+
+Model................................ : MtMam+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 0.863
+ -lnL................................ = 15872.79
+     (seconds))
+
+Model................................ : MtMam+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 0.898
+    proportion of invariable sites... = 0.013
+ -lnL................................ = 15868.66
+     (seconds))
+
+Model................................ : MtArt
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 16938.66
+     (seconds))
+
+Model................................ : MtArt+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.033
+ -lnL................................ = 16869.90
+     (seconds))
+
+Model................................ : MtArt+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 0.854
+ -lnL................................ = 15857.62
+     (seconds))
+
+Model................................ : MtArt+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 0.884
+    proportion of invariable sites... = 0.017
+ -lnL................................ = 15853.63
+     (seconds))
+
+Model................................ : Dayhoff
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15177.24
+     (seconds))
+
+Model................................ : Dayhoff+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.035
+ -lnL................................ = 15104.24
+     (seconds))
+
+Model................................ : Dayhoff+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.234
+ -lnL................................ = 14624.31
+     (seconds))
+
+Model................................ : Dayhoff+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.396
+    proportion of invariable sites... = 0.021
+ -lnL................................ = 14620.27
+     (seconds))
+
+Model................................ : WAG
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 14945.07
+     (seconds))
+
+Model................................ : WAG+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.033
+ -lnL................................ = 14888.44
+     (seconds))
+
+Model................................ : WAG+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.283
+ -lnL................................ = 14442.26
+     (seconds))
+
+Model................................ : WAG+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.392
+    proportion of invariable sites... = 0.018
+ -lnL................................ = 14439.86
+     (seconds))
+
+Model................................ : RtREV
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15164.17
+     (seconds))
+
+Model................................ : RtREV+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.033
+ -lnL................................ = 15109.57
+     (seconds))
+
+Model................................ : RtREV+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.166
+ -lnL................................ = 14609.15
+     (seconds))
+
+Model................................ : RtREV+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.249
+    proportion of invariable sites... = 0.016
+ -lnL................................ = 14607.29
+     (seconds))
+
+Model................................ : CpREV
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15144.12
+     (seconds))
+
+Model................................ : CpREV+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.033
+ -lnL................................ = 15093.36
+     (seconds))
+
+Model................................ : CpREV+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.123
+ -lnL................................ = 14598.47
+     (seconds))
+
+Model................................ : CpREV+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.188
+    proportion of invariable sites... = 0.013
+ -lnL................................ = 14597.32
+     (seconds))
+
+Model................................ : Blosum62
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15130.20
+     (seconds))
+
+Model................................ : Blosum62+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.034
+ -lnL................................ = 15074.90
+     (seconds))
+
+Model................................ : Blosum62+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.278
+ -lnL................................ = 14624.95
+     (seconds))
+
+Model................................ : Blosum62+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.383
+    proportion of invariable sites... = 0.018
+ -lnL................................ = 14622.90
+     (seconds))
+
+Model................................ : VT
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15007.77
+     (seconds))
+
+Model................................ : VT+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.034
+ -lnL................................ = 14945.69
+     (seconds))
+
+Model................................ : VT+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.316
+ -lnL................................ = 14511.28
+     (seconds))
+
+Model................................ : VT+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.446
+    proportion of invariable sites... = 0.02
+ -lnL................................ = 14508.39
+     (seconds))
+
+Model................................ : HIVb
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15661.08
+     (seconds))
+
+Model................................ : HIVb+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.035
+ -lnL................................ = 15573.89
+     (seconds))
+
+Model................................ : HIVb+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.162
+ -lnL................................ = 14995.92
+     (seconds))
+
+Model................................ : HIVb+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.283
+    proportion of invariable sites... = 0.025
+ -lnL................................ = 14989.58
+     (seconds))
+
+Model................................ : HIVw
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 16329.01
+     (seconds))
+
+Model................................ : HIVw+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.036
+ -lnL................................ = 16241.53
+     (seconds))
+
+Model................................ : HIVw+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.074
+ -lnL................................ = 15593.38
+     (seconds))
+
+Model................................ : HIVw+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.2
+    proportion of invariable sites... = 0.023
+ -lnL................................ = 15588.62
+     (seconds))
+
+Model................................ : FLU
+  Number of parameters............... : 207 (0 + 207 branch length estimates)
+ -lnL................................ = 15484.84
+     (seconds))
+
+Model................................ : FLU+I
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    proportion of invariable sites... = 0.034
+ -lnL................................ = 15413.27
+     (seconds))
+
+Model................................ : FLU+G
+  Number of parameters............... : 208 (1 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.077
+ -lnL................................ = 14813.32
+     (seconds))
+
+Model................................ : FLU+I+G
+  Number of parameters............... : 209 (2 + 207 branch length estimates)
+    gamma shape (4 rate categories).. = 1.193
+    proportion of invariable sites... = 0.02
+ -lnL................................ = 14809.95
+     (seconds))
+
+************************************************************
+Date   :  Thu Jan 31 22:20:51 EST 2019
+Runtime:  0h:13:01
+
+
+
+***************************************************************************
+Best model according to BIC: WAG+G
+Confidence Interval: 100.0
+***************************************************************************
+Model          deltaBIC       BIC            BICw           -lnL           
+---------------------------------------------------------------------------
+WAG+G          0.00           30022.75       0.58           14442.26       
+WAG+I+G        0.68           30023.43       0.42           14439.86       
+LG+G           75.13          30097.88       0.00           14479.82       
+LG+I+G         76.35          30099.10       0.00           14477.70       
+VT+I+G         137.74         30160.49       0.00           14508.39       
+VT+G           138.05         30160.79       0.00           14511.28       
+JTT+I+G        288.79         30311.54       0.00           14583.92       
+JTT+G          290.03         30312.78       0.00           14587.28       
+CpREV+G        312.41         30335.16       0.00           14598.47       
+CpREV+I+G      315.60         30338.35       0.00           14597.32       
+RtREV+G        333.78         30356.53       0.00           14609.15       
+RtREV+I+G      335.54         30358.29       0.00           14607.29       
+Dayhoff+I+G    361.50         30384.25       0.00           14620.27       
+DCMut+I+G      362.86         30385.61       0.00           14620.95       
+Dayhoff+G      364.09         30386.84       0.00           14624.31       
+Blosum62+G     365.38         30388.12       0.00           14624.95       
+DCMut+G        365.47         30388.22       0.00           14624.99       
+Blosum62+I+G   366.76         30389.51       0.00           14622.90       
+FLU+I+G        740.86         30763.61       0.00           14809.95       
+FLU+G          742.12         30764.87       0.00           14813.32       
+WAG+I          892.36         30915.11       0.00           14888.44       
+WAG            1000.15        31022.90       0.00           14945.07       
+VT+I           1006.86        31029.61       0.00           14945.69       
+LG+I           1085.94        31108.69       0.00           14985.23       
+HIVb+I+G       1100.12        31122.87       0.00           14989.58       
+HIVb+G         1107.32        31130.07       0.00           14995.92       
+VT             1125.54        31148.29       0.00           15007.77       
+LG             1201.57        31224.32       0.00           15045.78       
+JTT+I          1238.24        31260.99       0.00           15061.38       
+Blosum62+I     1265.29        31288.04       0.00           15074.90       
+CpREV+I        1302.20        31324.95       0.00           15093.36       
+DCMut+I        1323.44        31346.19       0.00           15103.98       
+Dayhoff+I      1323.97        31346.72       0.00           15104.24       
+RtREV+I        1334.63        31357.37       0.00           15109.57       
+Blosum62       1370.41        31393.16       0.00           15130.20       
+JTT            1370.46        31393.21       0.00           15130.23       
+CpREV          1398.26        31421.01       0.00           15144.12       
+RtREV          1438.35        31461.09       0.00           15164.17       
+DCMut          1463.94        31486.69       0.00           15176.96       
+Dayhoff        1464.49        31487.24       0.00           15177.24       
+MtREV+I+G      1856.31        31879.06       0.00           15367.68       
+MtREV+G        1859.31        31882.06       0.00           15371.91       
+FLU+I          1942.03        31964.78       0.00           15413.27       
+FLU            2079.69        32102.44       0.00           15484.84       
+HIVb+I         2263.27        32286.02       0.00           15573.89       
+HIVw+I+G       2298.19        32320.94       0.00           15588.62       
+HIVw+G         2302.25        32325.00       0.00           15593.38       
+HIVb           2432.17        32454.92       0.00           15661.08       
+MtArt+I+G      2828.21        32850.96       0.00           15853.63       
+MtArt+G        2830.73        32853.48       0.00           15857.62       
+MtMam+I+G      2858.28        32881.03       0.00           15868.66       
+MtMam+G        2861.07        32883.82       0.00           15872.79       
+MtREV+I        3186.37        33209.12       0.00           16035.44       
+MtREV          3298.13        33320.87       0.00           16094.06       
+HIVw+I         3598.55        33621.30       0.00           16241.53       
+HIVw           3768.03        33790.78       0.00           16329.01       
+MtArt+I        4855.28        34878.03       0.00           16869.90       
+MtMam+I        4934.16        34956.91       0.00           16909.34       
+MtArt          4987.34        35010.09       0.00           16938.66       
+MtMam          5057.02        35079.77       0.00           16973.50       
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+***********************************************
+Relative importance of parameters
+***********************************************
+  alpha       (+G):     0.585
+  p-inv       (+I):     0.000
+  alpha+p-inv (+I+G):   0.415
+  freqs       (+F):     No +F models
+
+***********************************************
+Model-averaged estimate of parameters
+***********************************************
+  alpha (+G):           1.283
+  p-inv (+I):           0.033
+  alpha (+I+G):         1.392
+  p-inv (+I+G):         0.018
+
+***************************************************************************
+Best model according to LnL: WAG+I+G
+Confidence Interval: 100.0
+***************************************************************************
+Model          deltaLnL       LnL            LnLw           -lnL           
+---------------------------------------------------------------------------
+WAG+I+G        0.00           14439.86       0.77           14439.86       
+WAG+G          2.39           14442.26       0.23           14442.26       
+LG+I+G         37.83          14477.70       0.00           14477.70       
+LG+G           39.96          14479.82       0.00           14479.82       
+VT+I+G         68.53          14508.39       0.00           14508.39       
+VT+G           71.42          14511.28       0.00           14511.28       
+JTT+I+G        144.05         14583.92       0.00           14583.92       
+JTT+G          147.41         14587.28       0.00           14587.28       
+CpREV+I+G      157.46         14597.32       0.00           14597.32       
+CpREV+G        158.60         14598.47       0.00           14598.47       
+RtREV+I+G      167.43         14607.29       0.00           14607.29       
+RtREV+G        169.29         14609.15       0.00           14609.15       
+Dayhoff+I+G    180.41         14620.27       0.00           14620.27       
+DCMut+I+G      181.09         14620.95       0.00           14620.95       
+Blosum62+I+G   183.04         14622.90       0.00           14622.90       
+Dayhoff+G      184.44         14624.31       0.00           14624.31       
+Blosum62+G     185.08         14624.95       0.00           14624.95       
+DCMut+G        185.13         14624.99       0.00           14624.99       
+FLU+I+G        370.09         14809.95       0.00           14809.95       
+FLU+G          373.45         14813.32       0.00           14813.32       
+WAG+I          448.58         14888.44       0.00           14888.44       
+WAG            505.20         14945.07       0.00           14945.07       
+VT+I           505.83         14945.69       0.00           14945.69       
+LG+I           545.36         14985.23       0.00           14985.23       
+HIVb+I+G       549.72         14989.58       0.00           14989.58       
+HIVb+G         556.05         14995.92       0.00           14995.92       
+VT             567.90         15007.77       0.00           15007.77       
+LG             605.92         15045.78       0.00           15045.78       
+JTT+I          621.51         15061.38       0.00           15061.38       
+Blosum62+I     635.04         15074.90       0.00           15074.90       
+CpREV+I        653.49         15093.36       0.00           15093.36       
+DCMut+I        664.11         15103.98       0.00           15103.98       
+Dayhoff+I      664.38         15104.24       0.00           15104.24       
+RtREV+I        669.71         15109.57       0.00           15109.57       
+Blosum62       690.33         15130.20       0.00           15130.20       
+JTT            690.36         15130.23       0.00           15130.23       
+CpREV          704.26         15144.12       0.00           15144.12       
+RtREV          724.30         15164.17       0.00           15164.17       
+DCMut          737.10         15176.96       0.00           15176.96       
+Dayhoff        737.38         15177.24       0.00           15177.24       
+MtREV+I+G      927.81         15367.68       0.00           15367.68       
+MtREV+G        932.05         15371.91       0.00           15371.91       
+FLU+I          973.41         15413.27       0.00           15413.27       
+FLU            1044.98        15484.84       0.00           15484.84       
+HIVb+I         1134.03        15573.89       0.00           15573.89       
+HIVw+I+G       1148.75        15588.62       0.00           15588.62       
+HIVw+G         1153.52        15593.38       0.00           15593.38       
+HIVb           1221.21        15661.08       0.00           15661.08       
+MtArt+I+G      1413.76        15853.63       0.00           15853.63       
+MtArt+G        1417.76        15857.62       0.00           15857.62       
+MtMam+I+G      1428.80        15868.66       0.00           15868.66       
+MtMam+G        1432.93        15872.79       0.00           15872.79       
+MtREV+I        1595.58        16035.44       0.00           16035.44       
+MtREV          1654.19        16094.06       0.00           16094.06       
+HIVw+I         1801.67        16241.53       0.00           16241.53       
+HIVw           1889.14        16329.01       0.00           16329.01       
+MtArt+I        2430.03        16869.90       0.00           16869.90       
+MtMam+I        2469.47        16909.34       0.00           16909.34       
+MtArt          2498.80        16938.66       0.00           16938.66       
+MtMam          2533.64        16973.50       0.00           16973.50       
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+***********************************************
+Relative importance of parameters
+***********************************************
+  alpha       (+G):     0.232
+  p-inv       (+I):     0.000
+  alpha+p-inv (+I+G):   0.768
+  freqs       (+F):     No +F models
+
+***********************************************
+Model-averaged estimate of parameters
+***********************************************
+  alpha (+G):           1.283
+  p-inv (+I):           0.033
+  alpha (+I+G):         1.392
+  p-inv (+I+G):         0.018
+

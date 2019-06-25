@@ -1,0 +1,799 @@
+$ java -jar prottest-3.4.2/prottest-3.4.2.jar -i endoglucanase-shortName.fasta.aln.trim -all-matrices -all-distributions -threads 2
+WARNING! Repeated argument "MtMam". New value is T
+WARNING! Repeated argument "Blosum62". New value is T
+WARNING! Repeated argument "HIVw". New value is T
+WARNING! Repeated argument "Dayhoff". New value is T
+WARNING! Repeated argument "JTT". New value is T
+WARNING! Repeated argument "HIVb". New value is T
+WARNING! Repeated argument "MtArt". New value is T
+WARNING! Repeated argument "FLU". New value is T
+WARNING! Repeated argument "MtREV". New value is T
+WARNING! Repeated argument "DCMut". New value is T
+WARNING! Repeated argument "CpREV". New value is T
+WARNING! Repeated argument "RtREV". New value is T
+WARNING! Repeated argument "LG". New value is T
+WARNING! Repeated argument "WAG". New value is T
+WARNING! Repeated argument "VT". New value is T
+FASTA format detected.MSA read in FASTA format (Taxa = 361, Length =  236).WARNING: ID for sequence "E_tracheiphila" is longer than 10 characters. ID truncated to "E_tracheip"WARNING: ID for sequence "D_dianthicola" is longer than 10 characters. ID truncated to "D_dianthic"WARNING: ID for sequence "P_stewartii" is longer than 10 characters. ID truncated to "P_stewarti"WARNING: ID for sequence "V_rhizosphaerae" is longer than 10 characters. ID truncated to "V_rhizosph"WARNING: ID for sequence "D_chrysanthemi" is longer than 10 characters. ID truncated to "D_chrysant"WARNING: ID for sequence "D_paradisiaca" is longer than 10 characters. ID truncated to "D_paradisi"WARNING: ID for sequence "Dsp_NCPPB3274" is longer than 10 characters. ID truncated to "Dsp_NCPPB3"WARNING: ID for sequence "D_fangzhongdai" is longer than 10 characters. ID truncated to "D_fangzhon"WARNING: ID for sequence "D_chrysanthemi" is longer than 10 characters. ID truncated to "D_chrysant"WARNING: ID for sequence "D_chrysant" renamed to "D_chrysa_0".WARNING: ID for sequence "V_gazogenes" is longer than 10 characters. ID truncated to "V_gazogene"WARNING: ID for sequence "V_quintilis" is longer than 10 characters. ID truncated to "V_quintili"WARNING: ID for sequence "V_gazogenes" is longer than 10 characters. ID truncated to "V_gazogene"WARNING: ID for sequence "V_gazogene" renamed to "V_gazoge_0".WARNING: ID for sequence "V_spartinae" is longer than 10 characters. ID truncated to "V_spartina"WARNING: ID for sequence "V_gazogenes" is longer than 10 characters. ID truncated to "V_gazogene"WARNING: ID for sequence "V_gazogene" renamed to "V_gazoge_1".WARNING: ID for sequence "V_aerogenes" is longer than 10 characters. ID truncated to "V_aerogene"WARNING: ID for sequence "WP_110371222.1" is longer than 10 characters. ID truncated to "WP_1103712"WARNING: ID for sequence "WP_083598898.1" is longer than 10 characters. ID truncated to "WP_0835988"WARNING: ID for sequence "WP_082545900.1" is longer than 10 characters. ID truncated to "WP_0825459"WARNING: ID for sequence "B_bacterium" is longer than 10 characters. ID truncated to "B_bacteriu"WARNING: ID for sequence "WP_082520074.1" is longer than 10 characters. ID truncated to "WP_0825200"WARNING: ID for sequence "G_polysaccharolyticus" is longer than 10 characters. ID truncated to "G_polysacc"WARNING: ID for sequence "P_antillogorgiicola" is longer than 10 characters. ID truncated to "P_antillog"WARNING: ID for sequence "S_degradans" is longer than 10 characters. ID truncated to "S_degradan"WARNING: ID for sequence "WP_094711313.1" is longer than 10 characters. ID truncated to "WP_0947113"WARNING: ID for sequence "WP_121466049.1" is longer than 10 characters. ID truncated to "WP_1214660"WARNING: ID for sequence "H_songnenensis" is longer than 10 characters. ID truncated to "H_songnene"WARNING: ID for sequence "WP_087465834.1" is longer than 10 characters. ID truncated to "WP_0874658"WARNING: ID for sequence "R_depolymerans" is longer than 10 characters. ID truncated to "R_depolyme"WARNING: ID for sequence "H_chejuensis" is longer than 10 characters. ID truncated to "H_chejuens"WARNING: ID for sequence "WP_024461047.1" is longer than 10 characters. ID truncated to "WP_0244610"WARNING: ID for sequence "S_degradans" is longer than 10 characters. ID truncated to "S_degradan"WARNING: ID for sequence "S_degradan" renamed to "S_degrad_0".WARNING: ID for sequence "WP_124538258.1" is longer than 10 characters. ID truncated to "WP_1245382"WARNING: ID for sequence "WP_121495428.1" is longer than 10 characters. ID truncated to "WP_1214954"WARNING: ID for sequence "M_agarilyticum" is longer than 10 characters. ID truncated to "M_agarilyt"WARNING: ID for sequence "A_bacterium" is longer than 10 characters. ID truncated to "A_bacteriu"WARNING: ID for sequence "H_chitinivorans" is longer than 10 characters. ID truncated to "H_chitiniv"WARNING: ID for sequence "M_agarilyticus" is longer than 10 characters. ID truncated to "M_agarilyt"WARNING: ID for sequence "M_agarilyt" renamed to "M_agaril_0".WARNING: ID for sequence "C_japonicus" is longer than 10 characters. ID truncated to "C_japonicu"WARNING: ID for sequence "WP_123014649.1" is longer than 10 characters. ID truncated to "WP_1230146"WARNING: ID for sequence "WP_025565066.1" is longer than 10 characters. ID truncated to "WP_0255650"WARNING: ID for sequence "WP_007580719.1" is longer than 10 characters. ID truncated to "WP_0075807"WARNING: ID for sequence "P_mesophila" is longer than 10 characters. ID truncated to "P_mesophil"WARNING: ID for sequence "P_distincta" is longer than 10 characters. ID truncated to "P_distinct"WARNING: ID for sequence "P_haloplanktis" is longer than 10 characters. ID truncated to "P_haloplan"WARNING: ID for sequence "G_sunshinyii" is longer than 10 characters. ID truncated to "G_sunshiny"WARNING: ID for sequence "V_tritonius" is longer than 10 characters. ID truncated to "V_tritoniu"WARNING: ID for sequence "P_fuliginea" is longer than 10 characters. ID truncated to "P_fuligine"WARNING: ID for sequence "H_rubripertinctus" is longer than 10 characters. ID truncated to "H_rubriper"WARNING: ID for sequence "P_haloplanktis" is longer than 10 characters. ID truncated to "P_haloplan"WARNING: ID for sequence "P_haloplan" renamed to "P_halopl_0".WARNING: ID for sequence "A_xantha" renamed to "A_xant_0".WARNING: ID for sequence "V_palustris" is longer than 10 characters. ID truncated to "V_palustri"WARNING: ID for sequence "P_distincta" is longer than 10 characters. ID truncated to "P_distinct"WARNING: ID for sequence "P_distinct" renamed to "P_distin_0".WARNING: ID for sequence "V_xiamenensis" is longer than 10 characters. ID truncated to "V_xiamenen"WARNING: ID for sequence "C_baltica" renamed to "C_balti_0".WARNING: ID for sequence "C_baltica" renamed to "C_balti_1".WARNING: ID for sequence "WP_081954855.1" is longer than 10 characters. ID truncated to "WP_0819548"WARNING: ID for sequence "T_turnerae" renamed to "T_turner_0".WARNING: ID for sequence "WP_082010875.1" is longer than 10 characters. ID truncated to "WP_0820108"WARNING: ID for sequence "WP_126075173.1" is longer than 10 characters. ID truncated to "WP_1260751"WARNING: ID for sequence "WP_121495429.1" is longer than 10 characters. ID truncated to "WP_1214954"WARNING: ID for sequence "WP_1214954" renamed to "WP_12149_0".WARNING: ID for sequence "V_maritimus" is longer than 10 characters. ID truncated to "V_maritimu"WARNING: ID for sequence "M_lumbricoides" is longer than 10 characters. ID truncated to "M_lumbrico"WARNING: ID for sequence "T_turnerae" renamed to "T_turner_1".WARNING: ID for sequence "C_aurantiaca" is longer than 10 characters. ID truncated to "C_aurantia"WARNING: ID for sequence "WP_073463147.1" is longer than 10 characters. ID truncated to "WP_0734631"WARNING: ID for sequence "V_maritimus" is longer than 10 characters. ID truncated to "V_maritimu"WARNING: ID for sequence "V_maritimu" renamed to "V_mariti_0".WARNING: ID for sequence "WP_111987688.1" is longer than 10 characters. ID truncated to "WP_1119876"WARNING: ID for sequence "T_turnerae" renamed to "T_turner_2".WARNING: ID for sequence "G_sunshinyii" is longer than 10 characters. ID truncated to "G_sunshiny"WARNING: ID for sequence "G_sunshiny" renamed to "G_sunshi_0".WARNING: ID for sequence "V_hangzhouensis" is longer than 10 characters. ID truncated to "V_hangzhou"WARNING: ID for sequence "H_jejuensis" is longer than 10 characters. ID truncated to "H_jejuensi"WARNING: ID for sequence "A_fragariae" is longer than 10 characters. ID truncated to "A_fragaria"WARNING: ID for sequence "A_aggregata" is longer than 10 characters. ID truncated to "A_aggregat"WARNING: ID for sequence "A_biprosthecium" is longer than 10 characters. ID truncated to "A_biprosth"WARNING: ID for sequence "V_hangzhouensis" is longer than 10 characters. ID truncated to "V_hangzhou"WARNING: ID for sequence "V_hangzhou" renamed to "V_hangzh_0".WARNING: ID for sequence "R_similis" renamed to "R_simil_0".WARNING: ID for sequence "A_aquaticus" is longer than 10 characters. ID truncated to "A_aquaticu"WARNING: ID for sequence "G_agarilyticus" is longer than 10 characters. ID truncated to "G_agarilyt"WARNING: ID for sequence "A_fragariae" is longer than 10 characters. ID truncated to "A_fragaria"WARNING: ID for sequence "A_fragaria" renamed to "A_fragar_0".WARNING: ID for sequence "A_benevestitus" is longer than 10 characters. ID truncated to "A_benevest"WARNING: ID for sequence "S_xinjiangense" is longer than 10 characters. ID truncated to "S_xinjiang"WARNING: ID for sequence "D_africanus" is longer than 10 characters. ID truncated to "D_africanu"WARNING: ID for sequence "G_polysaccharolyticus" is longer than 10 characters. ID truncated to "G_polysacc"WARNING: ID for sequence "G_polysacc" renamed to "G_polysa_0".WARNING: ID for sequence "H_balneolensis" is longer than 10 characters. ID truncated to "H_balneole"WARNING: ID for sequence "G_portivictoriae" is longer than 10 characters. ID truncated to "G_portivic"WARNING: ID for sequence "M_antarctica" is longer than 10 characters. ID truncated to "M_antarcti"WARNING: ID for sequence "T_agarivorans" is longer than 10 characters. ID truncated to "T_agarivor"WARNING: ID for sequence "S_cellulosum" is longer than 10 characters. ID truncated to "S_cellulos"WARNING: ID for sequence "C_apiculatus" is longer than 10 characters. ID truncated to "C_apiculat"WARNING: ID for sequence "M_agarilyticus" is longer than 10 characters. ID truncated to "M_agarilyt"WARNING: ID for sequence "M_agarilyt" renamed to "M_agaril_1".WARNING: ID for sequence "R_tibetensis" is longer than 10 characters. ID truncated to "R_tibetens"WARNING: ID for sequence "S_cellulosum" is longer than 10 characters. ID truncated to "S_cellulos"WARNING: ID for sequence "S_cellulos" renamed to "S_cellul_0".WARNING: ID for sequence "A_glabripennis" is longer than 10 characters. ID truncated to "A_glabripe"WARNING: ID for sequence "C_baltica" renamed to "C_balti_2".WARNING: ID for sequence "A_amphilecti" is longer than 10 characters. ID truncated to "A_amphilec"WARNING: ID for sequence "C_baltica" renamed to "C_balti_3".WARNING: ID for sequence "S_mishustinae" is longer than 10 characters. ID truncated to "S_mishusti"WARNING: ID for sequence "C_ferrugineus" is longer than 10 characters. ID truncated to "C_ferrugin"WARNING: ID for sequence "R_reniformis" is longer than 10 characters. ID truncated to "R_reniform"WARNING: ID for sequence "M_australiensis" is longer than 10 characters. ID truncated to "M_australi"WARNING: ID for sequence "M_artiellia" is longer than 10 characters. ID truncated to "M_artielli"WARNING: ID for sequence "C_baltica" renamed to "C_balti_4".WARNING: ID for sequence "M_incognita" is longer than 10 characters. ID truncated to "M_incognit"WARNING: ID for sequence "C_fuscus" renamed to "C_fusc_0".WARNING: ID for sequence "M_incognita" is longer than 10 characters. ID truncated to "M_incognit"WARNING: ID for sequence "M_incognit" renamed to "M_incogn_0".WARNING: ID for sequence "P_paludivivens" is longer than 10 characters. ID truncated to "P_paludivi"WARNING: ID for sequence "S_mishustinae" is longer than 10 characters. ID truncated to "S_mishusti"WARNING: ID for sequence "S_mishusti" renamed to "S_mishus_0".WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "A_glabripennis" is longer than 10 characters. ID truncated to "A_glabripe"WARNING: ID for sequence "A_glabripe" renamed to "A_glabri_0".WARNING: ID for sequence "M_myops" renamed to "M_myo_0".WARNING: ID for sequence "Z_uliginosa" is longer than 10 characters. ID truncated to "Z_uliginos"WARNING: ID for sequence "S_thermophila" is longer than 10 characters. ID truncated to "S_thermoph"WARNING: ID for sequence "V_bacterium" is longer than 10 characters. ID truncated to "V_bacteriu"WARNING: ID for sequence "R_tibetensis" is longer than 10 characters. ID truncated to "R_tibetens"WARNING: ID for sequence "R_tibetens" renamed to "R_tibete_0".WARNING: ID for sequence "A_japonica" renamed to "A_japoni_0".WARNING: ID for sequence "P_ginsengisoli" is longer than 10 characters. ID truncated to "P_ginsengi"WARNING: ID for sequence "S_thermophila" is longer than 10 characters. ID truncated to "S_thermoph"WARNING: ID for sequence "S_thermoph" renamed to "S_thermo_0".WARNING: ID for sequence "G_rostochiensis" is longer than 10 characters. ID truncated to "G_rostochi"WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "S_myxococc" renamed to "S_myxoco_0".WARNING: ID for sequence "L_limnophila" is longer than 10 characters. ID truncated to "L_limnophi"WARNING: ID for sequence "G_rostochiensis" is longer than 10 characters. ID truncated to "G_rostochi"WARNING: ID for sequence "G_rostochi" renamed to "G_rostoc_0".WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "S_myxococc" renamed to "S_myxoco_1".WARNING: ID for sequence "A_japonica" renamed to "A_japoni_1".WARNING: ID for sequence "H_glycines" renamed to "H_glycin_0".WARNING: ID for sequence "A_glabripennis" is longer than 10 characters. ID truncated to "A_glabripe"WARNING: ID for sequence "A_glabripe" renamed to "A_glabri_1".WARNING: ID for sequence "C_estertheticum" is longer than 10 characters. ID truncated to "C_esterthe"WARNING: ID for sequence "C_apiculatus" is longer than 10 characters. ID truncated to "C_apiculat"WARNING: ID for sequence "C_apiculat" renamed to "C_apicul_0".WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "S_myxococc" renamed to "S_myxoco_2".WARNING: ID for sequence "A_japonica" renamed to "A_japoni_2".WARNING: ID for sequence "H_glycines" renamed to "H_glycin_1".WARNING: ID for sequence "H_gracilis" renamed to "H_gracil_0".WARNING: ID for sequence "L_xylanilytica" is longer than 10 characters. ID truncated to "L_xylanily"WARNING: ID for sequence "O_aquimaris" is longer than 10 characters. ID truncated to "O_aquimari"WARNING: ID for sequence "C_lytica" renamed to "C_lyti_0".WARNING: ID for sequence "E_strongylocentroti" is longer than 10 characters. ID truncated to "E_strongyl"WARNING: ID for sequence "C_hutchinsonii" is longer than 10 characters. ID truncated to "C_hutchins"WARNING: ID for sequence "M_chitwoodi" is longer than 10 characters. ID truncated to "M_chitwood"WARNING: ID for sequence "T_caldarium" is longer than 10 characters. ID truncated to "T_caldariu"WARNING: ID for sequence "P_manganitolerans" is longer than 10 characters. ID truncated to "P_manganit"WARNING: ID for sequence "M_saelicesensis" is longer than 10 characters. ID truncated to "M_saelices"WARNING: ID for sequence "WP_116739627.1" is longer than 10 characters. ID truncated to "WP_1167396"WARNING: ID for sequence "B_xylanisolvens" is longer than 10 characters. ID truncated to "B_xylaniso"WARNING: ID for sequence "P_copri" renamed to "P_cop_0".WARNING: ID for sequence "F_ginsengisoli" is longer than 10 characters. ID truncated to "F_ginsengi"WARNING: ID for sequence "E_vietnamensis" is longer than 10 characters. ID truncated to "E_vietname"WARNING: ID for sequence "C_saccharobutylicum" is longer than 10 characters. ID truncated to "C_saccharo"WARNING: ID for sequence "F_akiainvivens" is longer than 10 characters. ID truncated to "F_akiainvi"WARNING: ID for sequence "M_mallensis" is longer than 10 characters. ID truncated to "M_mallensi"WARNING: ID for sequence "D_capnocytophagoides" is longer than 10 characters. ID truncated to "D_capnocyt"WARNING: ID for sequence "M_kameinonensis" is longer than 10 characters. ID truncated to "M_kameinon"WARNING: ID for sequence "P_ummariensis" is longer than 10 characters. ID truncated to "P_ummarien"WARNING: ID for sequence "F_akiainvivens" is longer than 10 characters. ID truncated to "F_akiainvi"WARNING: ID for sequence "F_akiainvi" renamed to "F_akiain_0".WARNING: ID for sequence "C_saccharobutylicum" is longer than 10 characters. ID truncated to "C_saccharo"WARNING: ID for sequence "C_saccharo" renamed to "C_saccha_0".WARNING: ID for sequence "M_mallensis" is longer than 10 characters. ID truncated to "M_mallensi"WARNING: ID for sequence "M_mallensi" renamed to "M_mallen_0".WARNING: ID for sequence "L_byssophila" is longer than 10 characters. ID truncated to "L_byssophi"WARNING: ID for sequence "F_cutihirudinis" is longer than 10 characters. ID truncated to "F_cutihiru"WARNING: ID for sequence "G_harbinensis" is longer than 10 characters. ID truncated to "G_harbinen"WARNING: ID for sequence "WP_081787114.1" is longer than 10 characters. ID truncated to "WP_0817871"WARNING: ID for sequence "B_glycinifermentans" is longer than 10 characters. ID truncated to "B_glycinif"WARNING: ID for sequence "F_phragmitis" is longer than 10 characters. ID truncated to "F_phragmit"WARNING: ID for sequence "G_artemisiae" is longer than 10 characters. ID truncated to "G_artemisi"WARNING: ID for sequence "M_kameinonensis" is longer than 10 characters. ID truncated to "M_kameinon"WARNING: ID for sequence "M_kameinon" renamed to "M_kamein_0".WARNING: ID for sequence "B_amyloliquefaciens" is longer than 10 characters. ID truncated to "B_amyloliq"WARNING: ID for sequence "S_hankookensis" is longer than 10 characters. ID truncated to "S_hankooke"WARNING: ID for sequence "WP_090891440.1" is longer than 10 characters. ID truncated to "WP_0908914"WARNING: ID for sequence "F_chilense" renamed to "F_chilen_0".WARNING: ID for sequence "S_hankookensis" is longer than 10 characters. ID truncated to "S_hankooke"WARNING: ID for sequence "S_hankooke" renamed to "S_hankoo_0".WARNING: ID for sequence "P_yonginense" is longer than 10 characters. ID truncated to "P_yonginen"WARNING: ID for sequence "B_atrophaeus" is longer than 10 characters. ID truncated to "B_atrophae"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "G_pallida" renamed to "G_palli_0".WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_0".WARNING: ID for sequence "B_thuringiensis" is longer than 10 characters. ID truncated to "B_thuringi"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_1".WARNING: ID for sequence "B_intestinalis" is longer than 10 characters. ID truncated to "B_intestin"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_2".WARNING: ID for sequence "P_campinasensis" is longer than 10 characters. ID truncated to "P_campinas"WARNING: ID for sequence "A_boritolerans" is longer than 10 characters. ID truncated to "A_boritole"WARNING: ID for sequence "B_tequilensis" is longer than 10 characters. ID truncated to "B_tequilen"WARNING: ID for sequence "G_stearothermophilus" is longer than 10 characters. ID truncated to "G_stearoth"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "F_ginsenosidimutans" is longer than 10 characters. ID truncated to "F_ginsenos"WARNING: ID for sequence "M_gossypiicola" is longer than 10 characters. ID truncated to "M_gossypii"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_3".WARNING: ID for sequence "G_arizonensis" is longer than 10 characters. ID truncated to "G_arizonen"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "B_uniformi" renamed to "B_unifor_0".WARNING: ID for sequence "B_stercorirosoris" is longer than 10 characters. ID truncated to "B_stercori"WARNING: ID for sequence "WP_056252419.1" is longer than 10 characters. ID truncated to "WP_0562524"WARNING: ID for sequence "F_subsaxonicum" is longer than 10 characters. ID truncated to "F_subsaxon"WARNING: ID for sequence "A_resistens" is longer than 10 characters. ID truncated to "A_resisten"WARNING: ID for sequence "B_licheniformis" is longer than 10 characters. ID truncated to "B_lichenif"WARNING: ID for sequence "B_siamensis" is longer than 10 characters. ID truncated to "B_siamensi"WARNING: ID for sequence "B_halotolerans" is longer than 10 characters. ID truncated to "B_halotole"WARNING: ID for sequence "H_avenae" renamed to "H_aven_0".WARNING: ID for sequence "N_koreensis" is longer than 10 characters. ID truncated to "N_koreensi"WARNING: ID for sequence "R_tibetensis" is longer than 10 characters. ID truncated to "R_tibetens"WARNING: ID for sequence "R_tibetens" renamed to "R_tibete_1".WARNING: ID for sequence "F_johnsoniae" is longer than 10 characters. ID truncated to "F_johnsoni"WARNING: ID for sequence "B_oceanisediminis" is longer than 10 characters. ID truncated to "B_oceanise"WARNING: ID for sequence "B_megaterium" is longer than 10 characters. ID truncated to "B_megateri"WARNING: ID for sequence "WP_123128854.1" is longer than 10 characters. ID truncated to "WP_1231288"WARNING: ID for sequence "F_anhuiense" is longer than 10 characters. ID truncated to "F_anhuiens"WARNING: ID for sequence "P_jejuensis" is longer than 10 characters. ID truncated to "P_jejuensi"WARNING: ID for sequence "F_anhuiense" is longer than 10 characters. ID truncated to "F_anhuiens"WARNING: ID for sequence "F_anhuiens" renamed to "F_anhuie_0".WARNING: ID for sequence "C_lentocellum" is longer than 10 characters. ID truncated to "C_lentocel"WARNING: ID for sequence "A_locisalis" is longer than 10 characters. ID truncated to "A_locisali"WARNING: ID for sequence "F_psychrophilum" is longer than 10 characters. ID truncated to "F_psychrop"WARNING: ID for sequence "B_cellulosilyticus" is longer than 10 characters. ID truncated to "B_cellulos"WARNING: ID for sequence "S_canadensis" is longer than 10 characters. ID truncated to "S_canadens"WARNING: ID for sequence "C_mitsuokai" is longer than 10 characters. ID truncated to "C_mitsuoka"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "B_uniformi" renamed to "B_unifor_1".WARNING: ID for sequence "B_paralicheniformis" is longer than 10 characters. ID truncated to "B_paralich"WARNING: ID for sequence "F_reichenbachii" is longer than 10 characters. ID truncated to "F_reichenb"WARNING: ID for sequence "B_goodwinii" is longer than 10 characters. ID truncated to "B_goodwini"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "B_uniformi" renamed to "B_unifor_2".WARNING: ID for sequence "C_ginsengisegetis" is longer than 10 characters. ID truncated to "C_ginsengi"WARNING: ID for sequence "C_arvensicola" is longer than 10 characters. ID truncated to "C_arvensic"WARNING: ID for sequence "B_goodwinii" is longer than 10 characters. ID truncated to "B_goodwini"WARNING: ID for sequence "B_goodwini" renamed to "B_goodwi_0".WARNING: ID for sequence "WP_009107654.1" is longer than 10 characters. ID truncated to "WP_0091076"WARNING: ID for sequence "P_cellulosolvens" is longer than 10 characters. ID truncated to "P_cellulos"WARNING: ID for sequence "B_sonorensis" is longer than 10 characters. ID truncated to "B_sonorens"WARNING: ID for sequence "P_carotovorum" is longer than 10 characters. ID truncated to "P_carotovo"WARNING: ID for sequence "P_peruviense" is longer than 10 characters. ID truncated to "P_peruvien"WARNING: ID for sequence "A_rhizosphaerae" is longer than 10 characters. ID truncated to "A_rhizosph"WARNING: ID for sequence "P_polymyxa" renamed to "P_polymy_0".WARNING: ID for sequence "L_plantarum" is longer than 10 characters. ID truncated to "L_plantaru"WARNING: ID for sequence "P_punjabense" is longer than 10 characters. ID truncated to "P_punjaben"WARNING: ID for sequence "P_atrosepticum" is longer than 10 characters. ID truncated to "P_atrosept"WARNING: ID for sequence "P_carotovorum" is longer than 10 characters. ID truncated to "P_carotovo"WARNING: ID for sequence "P_carotovo" renamed to "P_caroto_0".WARNING: ID for sequence "B_subtilis" renamed to "B_subtil_0".WARNING: ID for sequence "WP_116155552.1" is longer than 10 characters. ID truncated to "WP_1161555"WARNING: ID for sequence "P_polaris" renamed to "P_polar_0".WARNING: ID for sequence "WP_116166523.1" is longer than 10 characters. ID truncated to "WP_1161665"WARNING: ID for sequence "B_cellulosilyticus" is longer than 10 characters. ID truncated to "B_cellulos"WARNING: ID for sequence "B_cellulos" renamed to "B_cellul_0".WARNING: ID for sequence "P_betavasculorum" is longer than 10 characters. ID truncated to "P_betavasc"WARNING: ID for sequence "WP_016225218.1" is longer than 10 characters. ID truncated to "WP_0162252"WARNING: ID for sequence "B_paurosaccharolyticus" is longer than 10 characters. ID truncated to "B_paurosac"WARNING: ID for sequence "B_amyloliquefaciens" is longer than 10 characters. ID truncated to "B_amyloliq"WARNING: ID for sequence "B_amyloliq" renamed to "B_amylol_0".WARNING: ID for sequence "F_chungangense" is longer than 10 characters. ID truncated to "F_chungang"WARNING: ID for sequence "E_oxidoreducens" is longer than 10 characters. ID truncated to "E_oxidored"WARNING: ID for sequence "M_lappiensis" is longer than 10 characters. ID truncated to "M_lappiens"WARNING: ID for sequence "F_hercynium" is longer than 10 characters. ID truncated to "F_hercyniu"WARNING: ID for sequence "P_parmentieri" is longer than 10 characters. ID truncated to "P_parmenti"WARNING: ID for sequence "WP_066717286.1" is longer than 10 characters. ID truncated to "WP_0667172"WARNING: ID for sequence "D_macrotermitis" is longer than 10 characters. ID truncated to "D_macroter"WARNING: ID for sequence "A_rhodophyticola" is longer than 10 characters. ID truncated to "A_rhodophy"WARNING: ID for sequence "G_pallida" renamed to "G_palli_1".WARNING: ID for sequence "P_kribbensis" is longer than 10 characters. ID truncated to "P_kribbens"WARNING: ID for sequence "C_acetobutylicum" is longer than 10 characters. ID truncated to "C_acetobut"WARNING: ID for sequence "G_pallida" renamed to "G_palli_2".WARNING: ID for sequence "P_propionicigenes" is longer than 10 characters. ID truncated to "P_propioni"WARNING: ID for sequence "R_inulinivorans" is longer than 10 characters. ID truncated to "R_inuliniv"WARNING: ID for sequence "H_coccineus" is longer than 10 characters. ID truncated to "H_coccineu"WARNING: ID for sequence "R_inulinivorans" is longer than 10 characters. ID truncated to "R_inuliniv"WARNING: ID for sequence "R_inuliniv" renamed to "R_inulin_0".WARNING: ID for sequence "C_aurantibutyricum" is longer than 10 characters. ID truncated to "C_aurantib"WARNING: ID for sequence "B_choerinum" is longer than 10 characters. ID truncated to "B_choerinu"WARNING: ID for sequence "A_awajinensis" is longer than 10 characters. ID truncated to "A_awajinen"WARNING: ID for sequence "V_sediminis" is longer than 10 characters. ID truncated to "V_sedimini"WARNING: ID for sequence "WP_121397769.1" is longer than 10 characters. ID truncated to "WP_1213977"MSA successfully converted to PHYLIP format!
+
+----------------------------------------------------------------------------------------------
+ProtTest 3.4.2                      Fast selection of the best-fit models of protein evolution
+(c) 2009-2016   Diego Darriba (1,2), Guillermo Taboada (2), Ramón Doallo (2), David Posada (1)
+(1)                               Facultad de Biologia, Universidad de Vigo, 36200 Vigo, Spain
+(2)                    Facultade de Informática, Universidade da Coruña, 15071 A Coruña, Spain
+----------------------------------------------------------------------------------------------
+Manual:                                    http://darwin.uvigo.es/download/prottest_manual.pdf
+Homepage:                                                 http://github.com/ddarriba/prottest3
+Discussion group:                                     https://groups.google.com/group/prottest
+Contact:                                                  ddarriba@h-its.org, dposada@uvigo.es
+----------------------------------------------------------------------------------------------
+
+Version:  3.4.2 : 8th May 2016
+Date:     Sat Jan 26 20:50:44 EST 2019
+OS:       Mac OS X (10.12.6)
+Arch:     x86_64
+Java:     1.8.0_121 (Oracle Corporation)
+PhyML:    /Users/lorishapiro/Dropbox/AncientDNA/Expansin-endoglucanase-phylogeny/prottest-3.4.2/bin/PhyML_3.0_macOS_i386
+
+Citation: Darriba D, Taboada GL, Doallo R, Posada D. ProtTest 3: fast selection of best-fit 
+          models of protein evolution. Bioinformatics, 27:1164-1165, 2011
+
+
+ProtTest options
+----------------
+  Alignment file........... : endoglucanase-shortName.fasta.aln.trim
+  Tree..................... : BioNJ
+  StrategyMode............. : Fixed BIONJ JTT
+  Candidate models......... : 
+    Matrices............... : JTT LG DCMut MtREV MtMam MtArt Dayhoff WAG RtREV CpREV Blosum62 VT HIVb HIVw FLU 
+    Distributions.......... : Uniform +G +I +I+G 
+    Observed frequencies... : false
+
+  Statistical framework
+    Sort models according to....: 
+       BIC 
+    Sample size.................: 236.0
+  Other options:
+    Display best tree in ASCII..: false
+    Display best tree in Newick.: false
+    Display consensus tree......: false
+    Verbose.....................: false
+
+**********************************************************
+Observed number of invariant sites: 12
+Observed aminoacid frequencies:
+ A: 0.102    C: 0.006    D: 0.062    E: 0.050    F: 0.036   
+ G: 0.065    H: 0.023    I: 0.081    K: 0.057    L: 0.066   
+ M: 0.020    N: 0.064    P: 0.030    Q: 0.030    R: 0.032   
+ S: 0.065    T: 0.048    V: 0.082    W: 0.038    Y: 0.044   
+
+**********************************************************
+
+Computing JTT+I+G...
+Computing LG+I+G...
+^CLoris-MacBook-Pro:Expansin-endoglucanase-phylogeny lorishapiro$ java -jar prottest-3.4.2/prottest-3.4.2.jar -i endoglucanase-shortName.fta.aln.trim -all-matrices -all-distributions -threads 2
+WARNING! Repeated argument "MtMam". New value is T
+WARNING! Repeated argument "Blosum62". New value is T
+WARNING! Repeated argument "HIVw". New value is T
+WARNING! Repeated argument "Dayhoff". New value is T
+WARNING! Repeated argument "JTT". New value is T
+WARNING! Repeated argument "HIVb". New value is T
+WARNING! Repeated argument "MtArt". New value is T
+WARNING! Repeated argument "FLU". New value is T
+WARNING! Repeated argument "MtREV". New value is T
+WARNING! Repeated argument "DCMut". New value is T
+WARNING! Repeated argument "CpREV". New value is T
+WARNING! Repeated argument "RtREV". New value is T
+WARNING! Repeated argument "LG". New value is T
+WARNING! Repeated argument "WAG". New value is T
+WARNING! Repeated argument "VT". New value is T
+FASTA format detected.MSA read in FASTA format (Taxa = 361, Length =  236).WARNING: ID for sequence "E_tracheiphila" is longer than 10 characters. ID truncated to "E_tracheip"WARNING: ID for sequence "D_dianthicola" is longer than 10 characters. ID truncated to "D_dianthic"WARNING: ID for sequence "P_stewartii" is longer than 10 characters. ID truncated to "P_stewarti"WARNING: ID for sequence "V_rhizosphaerae" is longer than 10 characters. ID truncated to "V_rhizosph"WARNING: ID for sequence "D_chrysanthemi" is longer than 10 characters. ID truncated to "D_chrysant"WARNING: ID for sequence "D_paradisiaca" is longer than 10 characters. ID truncated to "D_paradisi"WARNING: ID for sequence "Dsp_NCPPB3274" is longer than 10 characters. ID truncated to "Dsp_NCPPB3"WARNING: ID for sequence "D_fangzhongdai" is longer than 10 characters. ID truncated to "D_fangzhon"WARNING: ID for sequence "D_chrysanthemi" is longer than 10 characters. ID truncated to "D_chrysant"WARNING: ID for sequence "D_chrysant" renamed to "D_chrysa_0".WARNING: ID for sequence "V_gazogenes" is longer than 10 characters. ID truncated to "V_gazogene"WARNING: ID for sequence "V_quintilis" is longer than 10 characters. ID truncated to "V_quintili"WARNING: ID for sequence "V_gazogenes" is longer than 10 characters. ID truncated to "V_gazogene"WARNING: ID for sequence "V_gazogene" renamed to "V_gazoge_0".WARNING: ID for sequence "V_spartinae" is longer than 10 characters. ID truncated to "V_spartina"WARNING: ID for sequence "V_gazogenes" is longer than 10 characters. ID truncated to "V_gazogene"WARNING: ID for sequence "V_gazogene" renamed to "V_gazoge_1".WARNING: ID for sequence "V_aerogenes" is longer than 10 characters. ID truncated to "V_aerogene"WARNING: ID for sequence "WP_110371222.1" is longer than 10 characters. ID truncated to "WP_1103712"WARNING: ID for sequence "WP_083598898.1" is longer than 10 characters. ID truncated to "WP_0835988"WARNING: ID for sequence "WP_082545900.1" is longer than 10 characters. ID truncated to "WP_0825459"WARNING: ID for sequence "B_bacterium" is longer than 10 characters. ID truncated to "B_bacteriu"WARNING: ID for sequence "WP_082520074.1" is longer than 10 characters. ID truncated to "WP_0825200"WARNING: ID for sequence "G_polysaccharolyticus" is longer than 10 characters. ID truncated to "G_polysacc"WARNING: ID for sequence "P_antillogorgiicola" is longer than 10 characters. ID truncated to "P_antillog"WARNING: ID for sequence "S_degradans" is longer than 10 characters. ID truncated to "S_degradan"WARNING: ID for sequence "WP_094711313.1" is longer than 10 characters. ID truncated to "WP_0947113"WARNING: ID for sequence "WP_121466049.1" is longer than 10 characters. ID truncated to "WP_1214660"WARNING: ID for sequence "H_songnenensis" is longer than 10 characters. ID truncated to "H_songnene"WARNING: ID for sequence "WP_087465834.1" is longer than 10 characters. ID truncated to "WP_0874658"WARNING: ID for sequence "R_depolymerans" is longer than 10 characters. ID truncated to "R_depolyme"WARNING: ID for sequence "H_chejuensis" is longer than 10 characters. ID truncated to "H_chejuens"WARNING: ID for sequence "WP_024461047.1" is longer than 10 characters. ID truncated to "WP_0244610"WARNING: ID for sequence "S_degradans" is longer than 10 characters. ID truncated to "S_degradan"WARNING: ID for sequence "S_degradan" renamed to "S_degrad_0".WARNING: ID for sequence "WP_124538258.1" is longer than 10 characters. ID truncated to "WP_1245382"WARNING: ID for sequence "WP_121495428.1" is longer than 10 characters. ID truncated to "WP_1214954"WARNING: ID for sequence "M_agarilyticum" is longer than 10 characters. ID truncated to "M_agarilyt"WARNING: ID for sequence "A_bacterium" is longer than 10 characters. ID truncated to "A_bacteriu"WARNING: ID for sequence "H_chitinivorans" is longer than 10 characters. ID truncated to "H_chitiniv"WARNING: ID for sequence "M_agarilyticus" is longer than 10 characters. ID truncated to "M_agarilyt"WARNING: ID for sequence "M_agarilyt" renamed to "M_agaril_0".WARNING: ID for sequence "C_japonicus" is longer than 10 characters. ID truncated to "C_japonicu"WARNING: ID for sequence "WP_123014649.1" is longer than 10 characters. ID truncated to "WP_1230146"WARNING: ID for sequence "WP_025565066.1" is longer than 10 characters. ID truncated to "WP_0255650"WARNING: ID for sequence "WP_007580719.1" is longer than 10 characters. ID truncated to "WP_0075807"WARNING: ID for sequence "P_mesophila" is longer than 10 characters. ID truncated to "P_mesophil"WARNING: ID for sequence "P_distincta" is longer than 10 characters. ID truncated to "P_distinct"WARNING: ID for sequence "P_haloplanktis" is longer than 10 characters. ID truncated to "P_haloplan"WARNING: ID for sequence "G_sunshinyii" is longer than 10 characters. ID truncated to "G_sunshiny"WARNING: ID for sequence "V_tritonius" is longer than 10 characters. ID truncated to "V_tritoniu"WARNING: ID for sequence "P_fuliginea" is longer than 10 characters. ID truncated to "P_fuligine"WARNING: ID for sequence "H_rubripertinctus" is longer than 10 characters. ID truncated to "H_rubriper"WARNING: ID for sequence "P_haloplanktis" is longer than 10 characters. ID truncated to "P_haloplan"WARNING: ID for sequence "P_haloplan" renamed to "P_halopl_0".WARNING: ID for sequence "A_xantha" renamed to "A_xant_0".WARNING: ID for sequence "V_palustris" is longer than 10 characters. ID truncated to "V_palustri"WARNING: ID for sequence "P_distincta" is longer than 10 characters. ID truncated to "P_distinct"WARNING: ID for sequence "P_distinct" renamed to "P_distin_0".WARNING: ID for sequence "V_xiamenensis" is longer than 10 characters. ID truncated to "V_xiamenen"WARNING: ID for sequence "C_baltica" renamed to "C_balti_0".WARNING: ID for sequence "C_baltica" renamed to "C_balti_1".WARNING: ID for sequence "WP_081954855.1" is longer than 10 characters. ID truncated to "WP_0819548"WARNING: ID for sequence "T_turnerae" renamed to "T_turner_0".WARNING: ID for sequence "WP_082010875.1" is longer than 10 characters. ID truncated to "WP_0820108"WARNING: ID for sequence "WP_126075173.1" is longer than 10 characters. ID truncated to "WP_1260751"WARNING: ID for sequence "WP_121495429.1" is longer than 10 characters. ID truncated to "WP_1214954"WARNING: ID for sequence "WP_1214954" renamed to "WP_12149_0".WARNING: ID for sequence "V_maritimus" is longer than 10 characters. ID truncated to "V_maritimu"WARNING: ID for sequence "M_lumbricoides" is longer than 10 characters. ID truncated to "M_lumbrico"WARNING: ID for sequence "T_turnerae" renamed to "T_turner_1".WARNING: ID for sequence "C_aurantiaca" is longer than 10 characters. ID truncated to "C_aurantia"WARNING: ID for sequence "WP_073463147.1" is longer than 10 characters. ID truncated to "WP_0734631"WARNING: ID for sequence "V_maritimus" is longer than 10 characters. ID truncated to "V_maritimu"WARNING: ID for sequence "V_maritimu" renamed to "V_mariti_0".WARNING: ID for sequence "WP_111987688.1" is longer than 10 characters. ID truncated to "WP_1119876"WARNING: ID for sequence "T_turnerae" renamed to "T_turner_2".WARNING: ID for sequence "G_sunshinyii" is longer than 10 characters. ID truncated to "G_sunshiny"WARNING: ID for sequence "G_sunshiny" renamed to "G_sunshi_0".WARNING: ID for sequence "V_hangzhouensis" is longer than 10 characters. ID truncated to "V_hangzhou"WARNING: ID for sequence "H_jejuensis" is longer than 10 characters. ID truncated to "H_jejuensi"WARNING: ID for sequence "A_fragariae" is longer than 10 characters. ID truncated to "A_fragaria"WARNING: ID for sequence "A_aggregata" is longer than 10 characters. ID truncated to "A_aggregat"WARNING: ID for sequence "A_biprosthecium" is longer than 10 characters. ID truncated to "A_biprosth"WARNING: ID for sequence "V_hangzhouensis" is longer than 10 characters. ID truncated to "V_hangzhou"WARNING: ID for sequence "V_hangzhou" renamed to "V_hangzh_0".WARNING: ID for sequence "R_similis" renamed to "R_simil_0".WARNING: ID for sequence "A_aquaticus" is longer than 10 characters. ID truncated to "A_aquaticu"WARNING: ID for sequence "G_agarilyticus" is longer than 10 characters. ID truncated to "G_agarilyt"WARNING: ID for sequence "A_fragariae" is longer than 10 characters. ID truncated to "A_fragaria"WARNING: ID for sequence "A_fragaria" renamed to "A_fragar_0".WARNING: ID for sequence "A_benevestitus" is longer than 10 characters. ID truncated to "A_benevest"WARNING: ID for sequence "S_xinjiangense" is longer than 10 characters. ID truncated to "S_xinjiang"WARNING: ID for sequence "D_africanus" is longer than 10 characters. ID truncated to "D_africanu"WARNING: ID for sequence "G_polysaccharolyticus" is longer than 10 characters. ID truncated to "G_polysacc"WARNING: ID for sequence "G_polysacc" renamed to "G_polysa_0".WARNING: ID for sequence "H_balneolensis" is longer than 10 characters. ID truncated to "H_balneole"WARNING: ID for sequence "G_portivictoriae" is longer than 10 characters. ID truncated to "G_portivic"WARNING: ID for sequence "M_antarctica" is longer than 10 characters. ID truncated to "M_antarcti"WARNING: ID for sequence "T_agarivorans" is longer than 10 characters. ID truncated to "T_agarivor"WARNING: ID for sequence "S_cellulosum" is longer than 10 characters. ID truncated to "S_cellulos"WARNING: ID for sequence "C_apiculatus" is longer than 10 characters. ID truncated to "C_apiculat"WARNING: ID for sequence "M_agarilyticus" is longer than 10 characters. ID truncated to "M_agarilyt"WARNING: ID for sequence "M_agarilyt" renamed to "M_agaril_1".WARNING: ID for sequence "R_tibetensis" is longer than 10 characters. ID truncated to "R_tibetens"WARNING: ID for sequence "S_cellulosum" is longer than 10 characters. ID truncated to "S_cellulos"WARNING: ID for sequence "S_cellulos" renamed to "S_cellul_0".WARNING: ID for sequence "A_glabripennis" is longer than 10 characters. ID truncated to "A_glabripe"WARNING: ID for sequence "C_baltica" renamed to "C_balti_2".WARNING: ID for sequence "A_amphilecti" is longer than 10 characters. ID truncated to "A_amphilec"WARNING: ID for sequence "C_baltica" renamed to "C_balti_3".WARNING: ID for sequence "S_mishustinae" is longer than 10 characters. ID truncated to "S_mishusti"WARNING: ID for sequence "C_ferrugineus" is longer than 10 characters. ID truncated to "C_ferrugin"WARNING: ID for sequence "R_reniformis" is longer than 10 characters. ID truncated to "R_reniform"WARNING: ID for sequence "M_australiensis" is longer than 10 characters. ID truncated to "M_australi"WARNING: ID for sequence "M_artiellia" is longer than 10 characters. ID truncated to "M_artielli"WARNING: ID for sequence "C_baltica" renamed to "C_balti_4".WARNING: ID for sequence "M_incognita" is longer than 10 characters. ID truncated to "M_incognit"WARNING: ID for sequence "C_fuscus" renamed to "C_fusc_0".WARNING: ID for sequence "M_incognita" is longer than 10 characters. ID truncated to "M_incognit"WARNING: ID for sequence "M_incognit" renamed to "M_incogn_0".WARNING: ID for sequence "P_paludivivens" is longer than 10 characters. ID truncated to "P_paludivi"WARNING: ID for sequence "S_mishustinae" is longer than 10 characters. ID truncated to "S_mishusti"WARNING: ID for sequence "S_mishusti" renamed to "S_mishus_0".WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "A_glabripennis" is longer than 10 characters. ID truncated to "A_glabripe"WARNING: ID for sequence "A_glabripe" renamed to "A_glabri_0".WARNING: ID for sequence "M_myops" renamed to "M_myo_0".WARNING: ID for sequence "Z_uliginosa" is longer than 10 characters. ID truncated to "Z_uliginos"WARNING: ID for sequence "S_thermophila" is longer than 10 characters. ID truncated to "S_thermoph"WARNING: ID for sequence "V_bacterium" is longer than 10 characters. ID truncated to "V_bacteriu"WARNING: ID for sequence "R_tibetensis" is longer than 10 characters. ID truncated to "R_tibetens"WARNING: ID for sequence "R_tibetens" renamed to "R_tibete_0".WARNING: ID for sequence "A_japonica" renamed to "A_japoni_0".WARNING: ID for sequence "P_ginsengisoli" is longer than 10 characters. ID truncated to "P_ginsengi"WARNING: ID for sequence "S_thermophila" is longer than 10 characters. ID truncated to "S_thermoph"WARNING: ID for sequence "S_thermoph" renamed to "S_thermo_0".WARNING: ID for sequence "G_rostochiensis" is longer than 10 characters. ID truncated to "G_rostochi"WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "S_myxococc" renamed to "S_myxoco_0".WARNING: ID for sequence "L_limnophila" is longer than 10 characters. ID truncated to "L_limnophi"WARNING: ID for sequence "G_rostochiensis" is longer than 10 characters. ID truncated to "G_rostochi"WARNING: ID for sequence "G_rostochi" renamed to "G_rostoc_0".WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "S_myxococc" renamed to "S_myxoco_1".WARNING: ID for sequence "A_japonica" renamed to "A_japoni_1".WARNING: ID for sequence "H_glycines" renamed to "H_glycin_0".WARNING: ID for sequence "A_glabripennis" is longer than 10 characters. ID truncated to "A_glabripe"WARNING: ID for sequence "A_glabripe" renamed to "A_glabri_1".WARNING: ID for sequence "C_estertheticum" is longer than 10 characters. ID truncated to "C_esterthe"WARNING: ID for sequence "C_apiculatus" is longer than 10 characters. ID truncated to "C_apiculat"WARNING: ID for sequence "C_apiculat" renamed to "C_apicul_0".WARNING: ID for sequence "S_myxococcoides" is longer than 10 characters. ID truncated to "S_myxococc"WARNING: ID for sequence "S_myxococc" renamed to "S_myxoco_2".WARNING: ID for sequence "A_japonica" renamed to "A_japoni_2".WARNING: ID for sequence "H_glycines" renamed to "H_glycin_1".WARNING: ID for sequence "H_gracilis" renamed to "H_gracil_0".WARNING: ID for sequence "L_xylanilytica" is longer than 10 characters. ID truncated to "L_xylanily"WARNING: ID for sequence "O_aquimaris" is longer than 10 characters. ID truncated to "O_aquimari"WARNING: ID for sequence "C_lytica" renamed to "C_lyti_0".WARNING: ID for sequence "E_strongylocentroti" is longer than 10 characters. ID truncated to "E_strongyl"WARNING: ID for sequence "C_hutchinsonii" is longer than 10 characters. ID truncated to "C_hutchins"WARNING: ID for sequence "M_chitwoodi" is longer than 10 characters. ID truncated to "M_chitwood"WARNING: ID for sequence "T_caldarium" is longer than 10 characters. ID truncated to "T_caldariu"WARNING: ID for sequence "P_manganitolerans" is longer than 10 characters. ID truncated to "P_manganit"WARNING: ID for sequence "M_saelicesensis" is longer than 10 characters. ID truncated to "M_saelices"WARNING: ID for sequence "WP_116739627.1" is longer than 10 characters. ID truncated to "WP_1167396"WARNING: ID for sequence "B_xylanisolvens" is longer than 10 characters. ID truncated to "B_xylaniso"WARNING: ID for sequence "P_copri" renamed to "P_cop_0".WARNING: ID for sequence "F_ginsengisoli" is longer than 10 characters. ID truncated to "F_ginsengi"WARNING: ID for sequence "E_vietnamensis" is longer than 10 characters. ID truncated to "E_vietname"WARNING: ID for sequence "C_saccharobutylicum" is longer than 10 characters. ID truncated to "C_saccharo"WARNING: ID for sequence "F_akiainvivens" is longer than 10 characters. ID truncated to "F_akiainvi"WARNING: ID for sequence "M_mallensis" is longer than 10 characters. ID truncated to "M_mallensi"WARNING: ID for sequence "D_capnocytophagoides" is longer than 10 characters. ID truncated to "D_capnocyt"WARNING: ID for sequence "M_kameinonensis" is longer than 10 characters. ID truncated to "M_kameinon"WARNING: ID for sequence "P_ummariensis" is longer than 10 characters. ID truncated to "P_ummarien"WARNING: ID for sequence "F_akiainvivens" is longer than 10 characters. ID truncated to "F_akiainvi"WARNING: ID for sequence "F_akiainvi" renamed to "F_akiain_0".WARNING: ID for sequence "C_saccharobutylicum" is longer than 10 characters. ID truncated to "C_saccharo"WARNING: ID for sequence "C_saccharo" renamed to "C_saccha_0".WARNING: ID for sequence "M_mallensis" is longer than 10 characters. ID truncated to "M_mallensi"WARNING: ID for sequence "M_mallensi" renamed to "M_mallen_0".WARNING: ID for sequence "L_byssophila" is longer than 10 characters. ID truncated to "L_byssophi"WARNING: ID for sequence "F_cutihirudinis" is longer than 10 characters. ID truncated to "F_cutihiru"WARNING: ID for sequence "G_harbinensis" is longer than 10 characters. ID truncated to "G_harbinen"WARNING: ID for sequence "WP_081787114.1" is longer than 10 characters. ID truncated to "WP_0817871"WARNING: ID for sequence "B_glycinifermentans" is longer than 10 characters. ID truncated to "B_glycinif"WARNING: ID for sequence "F_phragmitis" is longer than 10 characters. ID truncated to "F_phragmit"WARNING: ID for sequence "G_artemisiae" is longer than 10 characters. ID truncated to "G_artemisi"WARNING: ID for sequence "M_kameinonensis" is longer than 10 characters. ID truncated to "M_kameinon"WARNING: ID for sequence "M_kameinon" renamed to "M_kamein_0".WARNING: ID for sequence "B_amyloliquefaciens" is longer than 10 characters. ID truncated to "B_amyloliq"WARNING: ID for sequence "S_hankookensis" is longer than 10 characters. ID truncated to "S_hankooke"WARNING: ID for sequence "WP_090891440.1" is longer than 10 characters. ID truncated to "WP_0908914"WARNING: ID for sequence "F_chilense" renamed to "F_chilen_0".WARNING: ID for sequence "S_hankookensis" is longer than 10 characters. ID truncated to "S_hankooke"WARNING: ID for sequence "S_hankooke" renamed to "S_hankoo_0".WARNING: ID for sequence "P_yonginense" is longer than 10 characters. ID truncated to "P_yonginen"WARNING: ID for sequence "B_atrophaeus" is longer than 10 characters. ID truncated to "B_atrophae"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "G_pallida" renamed to "G_palli_0".WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_0".WARNING: ID for sequence "B_thuringiensis" is longer than 10 characters. ID truncated to "B_thuringi"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_1".WARNING: ID for sequence "B_intestinalis" is longer than 10 characters. ID truncated to "B_intestin"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_2".WARNING: ID for sequence "P_campinasensis" is longer than 10 characters. ID truncated to "P_campinas"WARNING: ID for sequence "A_boritolerans" is longer than 10 characters. ID truncated to "A_boritole"WARNING: ID for sequence "B_tequilensis" is longer than 10 characters. ID truncated to "B_tequilen"WARNING: ID for sequence "G_stearothermophilus" is longer than 10 characters. ID truncated to "G_stearoth"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "F_ginsenosidimutans" is longer than 10 characters. ID truncated to "F_ginsenos"WARNING: ID for sequence "M_gossypiicola" is longer than 10 characters. ID truncated to "M_gossypii"WARNING: ID for sequence "B_velezensis" is longer than 10 characters. ID truncated to "B_velezens"WARNING: ID for sequence "B_velezens" renamed to "B_veleze_3".WARNING: ID for sequence "G_arizonensis" is longer than 10 characters. ID truncated to "G_arizonen"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "B_uniformi" renamed to "B_unifor_0".WARNING: ID for sequence "B_stercorirosoris" is longer than 10 characters. ID truncated to "B_stercori"WARNING: ID for sequence "WP_056252419.1" is longer than 10 characters. ID truncated to "WP_0562524"WARNING: ID for sequence "F_subsaxonicum" is longer than 10 characters. ID truncated to "F_subsaxon"WARNING: ID for sequence "A_resistens" is longer than 10 characters. ID truncated to "A_resisten"WARNING: ID for sequence "B_licheniformis" is longer than 10 characters. ID truncated to "B_lichenif"WARNING: ID for sequence "B_siamensis" is longer than 10 characters. ID truncated to "B_siamensi"WARNING: ID for sequence "B_halotolerans" is longer than 10 characters. ID truncated to "B_halotole"WARNING: ID for sequence "H_avenae" renamed to "H_aven_0".WARNING: ID for sequence "N_koreensis" is longer than 10 characters. ID truncated to "N_koreensi"WARNING: ID for sequence "R_tibetensis" is longer than 10 characters. ID truncated to "R_tibetens"WARNING: ID for sequence "R_tibetens" renamed to "R_tibete_1".WARNING: ID for sequence "F_johnsoniae" is longer than 10 characters. ID truncated to "F_johnsoni"WARNING: ID for sequence "B_oceanisediminis" is longer than 10 characters. ID truncated to "B_oceanise"WARNING: ID for sequence "B_megaterium" is longer than 10 characters. ID truncated to "B_megateri"WARNING: ID for sequence "WP_123128854.1" is longer than 10 characters. ID truncated to "WP_1231288"WARNING: ID for sequence "F_anhuiense" is longer than 10 characters. ID truncated to "F_anhuiens"WARNING: ID for sequence "P_jejuensis" is longer than 10 characters. ID truncated to "P_jejuensi"WARNING: ID for sequence "F_anhuiense" is longer than 10 characters. ID truncated to "F_anhuiens"WARNING: ID for sequence "F_anhuiens" renamed to "F_anhuie_0".WARNING: ID for sequence "C_lentocellum" is longer than 10 characters. ID truncated to "C_lentocel"WARNING: ID for sequence "A_locisalis" is longer than 10 characters. ID truncated to "A_locisali"WARNING: ID for sequence "F_psychrophilum" is longer than 10 characters. ID truncated to "F_psychrop"WARNING: ID for sequence "B_cellulosilyticus" is longer than 10 characters. ID truncated to "B_cellulos"WARNING: ID for sequence "S_canadensis" is longer than 10 characters. ID truncated to "S_canadens"WARNING: ID for sequence "C_mitsuokai" is longer than 10 characters. ID truncated to "C_mitsuoka"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "B_uniformi" renamed to "B_unifor_1".WARNING: ID for sequence "B_paralicheniformis" is longer than 10 characters. ID truncated to "B_paralich"WARNING: ID for sequence "F_reichenbachii" is longer than 10 characters. ID truncated to "F_reichenb"WARNING: ID for sequence "B_goodwinii" is longer than 10 characters. ID truncated to "B_goodwini"WARNING: ID for sequence "B_uniformis" is longer than 10 characters. ID truncated to "B_uniformi"WARNING: ID for sequence "B_uniformi" renamed to "B_unifor_2".WARNING: ID for sequence "C_ginsengisegetis" is longer than 10 characters. ID truncated to "C_ginsengi"WARNING: ID for sequence "C_arvensicola" is longer than 10 characters. ID truncated to "C_arvensic"WARNING: ID for sequence "B_goodwinii" is longer than 10 characters. ID truncated to "B_goodwini"WARNING: ID for sequence "B_goodwini" renamed to "B_goodwi_0".WARNING: ID for sequence "WP_009107654.1" is longer than 10 characters. ID truncated to "WP_0091076"WARNING: ID for sequence "P_cellulosolvens" is longer than 10 characters. ID truncated to "P_cellulos"WARNING: ID for sequence "B_sonorensis" is longer than 10 characters. ID truncated to "B_sonorens"WARNING: ID for sequence "P_carotovorum" is longer than 10 characters. ID truncated to "P_carotovo"WARNING: ID for sequence "P_peruviense" is longer than 10 characters. ID truncated to "P_peruvien"WARNING: ID for sequence "A_rhizosphaerae" is longer than 10 characters. ID truncated to "A_rhizosph"WARNING: ID for sequence "P_polymyxa" renamed to "P_polymy_0".WARNING: ID for sequence "L_plantarum" is longer than 10 characters. ID truncated to "L_plantaru"WARNING: ID for sequence "P_punjabense" is longer than 10 characters. ID truncated to "P_punjaben"WARNING: ID for sequence "P_atrosepticum" is longer than 10 characters. ID truncated to "P_atrosept"WARNING: ID for sequence "P_carotovorum" is longer than 10 characters. ID truncated to "P_carotovo"WARNING: ID for sequence "P_carotovo" renamed to "P_caroto_0".WARNING: ID for sequence "B_subtilis" renamed to "B_subtil_0".WARNING: ID for sequence "WP_116155552.1" is longer than 10 characters. ID truncated to "WP_1161555"WARNING: ID for sequence "P_polaris" renamed to "P_polar_0".WARNING: ID for sequence "WP_116166523.1" is longer than 10 characters. ID truncated to "WP_1161665"WARNING: ID for sequence "B_cellulosilyticus" is longer than 10 characters. ID truncated to "B_cellulos"WARNING: ID for sequence "B_cellulos" renamed to "B_cellul_0".WARNING: ID for sequence "P_betavasculorum" is longer than 10 characters. ID truncated to "P_betavasc"WARNING: ID for sequence "WP_016225218.1" is longer than 10 characters. ID truncated to "WP_0162252"WARNING: ID for sequence "B_paurosaccharolyticus" is longer than 10 characters. ID truncated to "B_paurosac"WARNING: ID for sequence "B_amyloliquefaciens" is longer than 10 characters. ID truncated to "B_amyloliq"WARNING: ID for sequence "B_amyloliq" renamed to "B_amylol_0".WARNING: ID for sequence "F_chungangense" is longer than 10 characters. ID truncated to "F_chungang"WARNING: ID for sequence "E_oxidoreducens" is longer than 10 characters. ID truncated to "E_oxidored"WARNING: ID for sequence "M_lappiensis" is longer than 10 characters. ID truncated to "M_lappiens"WARNING: ID for sequence "F_hercynium" is longer than 10 characters. ID truncated to "F_hercyniu"WARNING: ID for sequence "P_parmentieri" is longer than 10 characters. ID truncated to "P_parmenti"WARNING: ID for sequence "WP_066717286.1" is longer than 10 characters. ID truncated to "WP_0667172"WARNING: ID for sequence "D_macrotermitis" is longer than 10 characters. ID truncated to "D_macroter"WARNING: ID for sequence "A_rhodophyticola" is longer than 10 characters. ID truncated to "A_rhodophy"WARNING: ID for sequence "G_pallida" renamed to "G_palli_1".WARNING: ID for sequence "P_kribbensis" is longer than 10 characters. ID truncated to "P_kribbens"WARNING: ID for sequence "C_acetobutylicum" is longer than 10 characters. ID truncated to "C_acetobut"WARNING: ID for sequence "G_pallida" renamed to "G_palli_2".WARNING: ID for sequence "P_propionicigenes" is longer than 10 characters. ID truncated to "P_propioni"WARNING: ID for sequence "R_inulinivorans" is longer than 10 characters. ID truncated to "R_inuliniv"WARNING: ID for sequence "H_coccineus" is longer than 10 characters. ID truncated to "H_coccineu"WARNING: ID for sequence "R_inulinivorans" is longer than 10 characters. ID truncated to "R_inuliniv"WARNING: ID for sequence "R_inuliniv" renamed to "R_inulin_0".WARNING: ID for sequence "C_aurantibutyricum" is longer than 10 characters. ID truncated to "C_aurantib"WARNING: ID for sequence "B_choerinum" is longer than 10 characters. ID truncated to "B_choerinu"WARNING: ID for sequence "A_awajinensis" is longer than 10 characters. ID truncated to "A_awajinen"WARNING: ID for sequence "V_sediminis" is longer than 10 characters. ID truncated to "V_sedimini"WARNING: ID for sequence "WP_121397769.1" is longer than 10 characters. ID truncated to "WP_1213977"MSA successfully converted to PHYLIP format!
+
+----------------------------------------------------------------------------------------------
+ProtTest 3.4.2                      Fast selection of the best-fit models of protein evolution
+(c) 2009-2016   Diego Darriba (1,2), Guillermo Taboada (2), Ramón Doallo (2), David Posada (1)
+(1)                               Facultad de Biologia, Universidad de Vigo, 36200 Vigo, Spain
+(2)                    Facultade de Informática, Universidade da Coruña, 15071 A Coruña, Spain
+----------------------------------------------------------------------------------------------
+Manual:                                    http://darwin.uvigo.es/download/prottest_manual.pdf
+Homepage:                                                 http://github.com/ddarriba/prottest3
+Discussion group:                                     https://groups.google.com/group/prottest
+Contact:                                                  ddarriba@h-its.org, dposada@uvigo.es
+----------------------------------------------------------------------------------------------
+
+Version:  3.4.2 : 8th May 2016
+Date:     Sat Jan 26 21:03:26 EST 2019
+OS:       Mac OS X (10.12.6)
+Arch:     x86_64
+Java:     1.8.0_121 (Oracle Corporation)
+PhyML:    /Users/lorishapiro/Dropbox/AncientDNA/Expansin-endoglucanase-phylogeny/prottest-3.4.2/bin/PhyML_3.0_macOS_i386
+
+Citation: Darriba D, Taboada GL, Doallo R, Posada D. ProtTest 3: fast selection of best-fit 
+          models of protein evolution. Bioinformatics, 27:1164-1165, 2011
+
+
+ProtTest options
+----------------
+  Alignment file........... : endoglucanase-shortName.fasta.aln.trim
+  Tree..................... : BioNJ
+  StrategyMode............. : Fixed BIONJ JTT
+  Candidate models......... : 
+    Matrices............... : JTT LG DCMut MtREV MtMam MtArt Dayhoff WAG RtREV CpREV Blosum62 VT HIVb HIVw FLU 
+    Distributions.......... : Uniform +G +I +I+G 
+    Observed frequencies... : false
+
+  Statistical framework
+    Sort models according to....: 
+       BIC 
+    Sample size.................: 236.0
+  Other options:
+    Display best tree in ASCII..: false
+    Display best tree in Newick.: false
+    Display consensus tree......: false
+    Verbose.....................: false
+
+**********************************************************
+Observed number of invariant sites: 12
+Observed aminoacid frequencies:
+ A: 0.102    C: 0.006    D: 0.062    E: 0.050    F: 0.036   
+ G: 0.065    H: 0.023    I: 0.081    K: 0.057    L: 0.066   
+ M: 0.020    N: 0.064    P: 0.030    Q: 0.030    R: 0.032   
+ S: 0.065    T: 0.048    V: 0.082    W: 0.038    Y: 0.044   
+
+**********************************************************
+
+Computing JTT+I+G...
+Computing LG+I+G...
+Computed: JTT+I+G (-52126.84369)
+Computing DCMut+I+G...
+Computed: LG+I+G (-51192.88843)
+Computing MtREV+I+G...
+Computed: DCMut+I+G (-52179.72449)
+Computing MtMam+I+G...
+Computed: MtREV+I+G (-54650.24143)
+Computing MtArt+I+G...
+Computed: MtMam+I+G (-56415.71274)
+Computing Dayhoff+I+G...
+Computed: MtArt+I+G (-55150.15669)
+Computing WAG+I+G...
+Computed: Dayhoff+I+G (-52176.88592)
+Computing RtREV+I+G...
+Computed: WAG+I+G (-51412.93441)
+Computing CpREV+I+G...
+Computed: RtREV+I+G (-51735.01919)
+Computing Blosum62+I+G...
+Computed: CpREV+I+G (-51777.48824)
+Computing VT+I+G...
+Computed: Blosum62+I+G (-51981.31384)
+Computing HIVb+I+G...
+Computed: VT+I+G (-51727.89832)
+Computing HIVw+I+G...
+Computed: HIVw+I+G (-56028.38303)
+Computing FLU+I+G...
+Computed: HIVb+I+G (-53651.75779)
+Computing JTT+G...
+Computed: JTT+G (-52207.20161)
+Computing LG+G...
+Computed: LG+G (-51260.70529)
+Computing DCMut+G...
+Computed: FLU+I+G (-53046.71311)
+Computing MtREV+G...
+Computed: MtREV+G (-54682.78208)
+Computing MtMam+G...
+Computed: MtMam+G (-56430.08685)
+Computing MtArt+G...
+Computed: MtArt+G (-55164.68373)
+Computing Dayhoff+G...
+Computed: DCMut+G (-52297.587)
+Computing WAG+G...
+Computed: Dayhoff+G (-52300.3742)
+Computing RtREV+G...
+Computed: WAG+G (-51506.67115)
+Computing CpREV+G...
+Computed: RtREV+G (-51803.44801)
+Computing Blosum62+G...
+Computed: CpREV+G (-51861.50467)
+Computing VT+G...
+Computed: Blosum62+G (-52055.53915)
+Computing HIVb+G...
+Computed: HIVb+G (-53715.36829)
+Computing HIVw+G...
+Computed: VT+G (-51812.80558)
+Computing FLU+G...
+Computed: HIVw+G (-56110.97546)
+Computing JTT+I...
+Computed: FLU+G (-53114.23563)
+Computing LG+I...
+Computed: JTT+I (-54839.25956)
+Computing DCMut+I...
+Computed: LG+I (-54025.22718)
+Computing MtREV+I...
+Computed: DCMut+I (-54723.55725)
+Computing MtMam+I...
+Computed: MtREV+I (-58515.42777)
+Computing MtArt+I...
+Computed: MtMam+I (-62468.99283)
+Computing Dayhoff+I...
+Computed: MtArt+I (-60615.09069)
+Computing WAG+I...
+Computed: Dayhoff+I (-54723.79206)
+Computing RtREV+I...
+Computed: WAG+I (-53796.75056)
+Computing CpREV+I...
+Computed: RtREV+I (-54528.69296)
+Computing Blosum62+I...
+Computed: CpREV+I (-54066.11036)
+Computing VT+I...
+Computed: Blosum62+I (-54477.62126)
+Computing HIVb+I...
+Computed: VT+I (-54168.4441)
+Computing HIVw+I...
+Computed: HIVb+I (-56841.72064)
+Computing FLU+I...
+Computed: HIVw+I (-58970.35218)
+Computing JTT...
+Computed: FLU+I (-55958.158)
+Computing LG...
+Computed: JTT (-55446.21769)
+Computing DCMut...
+Computed: LG (-54572.36641)
+Computing MtREV...
+Computed: DCMut (-55377.30948)
+Computing MtMam...
+Computed: MtREV (-58895.94559)
+Computing MtArt...
+Computed: MtMam (-62877.63194)
+Computing Dayhoff...
+Computed: MtArt (-60978.06478)
+Computing WAG...
+Computed: Dayhoff (-55377.72758)
+Computing RtREV...
+Computed: WAG (-54423.87344)
+Computing CpREV...
+Computed: RtREV (-55089.04913)
+Computing Blosum62...
+Computed: CpREV (-54646.244)
+Computing VT...
+Computed: Blosum62 (-55056.933)
+Computing HIVb...
+Computed: VT (-54759.29495)
+Computing HIVw...
+Computed: HIVb (-57508.9856)
+Computing FLU...
+Computed: HIVw (-59742.25381)
+Computed: FLU (-56541.19039)
+
+
+Model................................ : JTT
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 55446.22
+     (seconds))
+
+Model................................ : JTT+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54839.26
+     (seconds))
+
+Model................................ : JTT+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.849
+ -lnL................................ = 52207.20
+     (seconds))
+
+Model................................ : JTT+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.174
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 52126.84
+     (seconds))
+
+Model................................ : LG
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 54572.37
+     (seconds))
+
+Model................................ : LG+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54025.23
+     (seconds))
+
+Model................................ : LG+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.813
+ -lnL................................ = 51260.71
+     (seconds))
+
+Model................................ : LG+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.168
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 51192.89
+     (seconds))
+
+Model................................ : DCMut
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 55377.31
+     (seconds))
+
+Model................................ : DCMut+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54723.56
+     (seconds))
+
+Model................................ : DCMut+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.949
+ -lnL................................ = 52297.59
+     (seconds))
+
+Model................................ : DCMut+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.255
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 52179.72
+     (seconds))
+
+Model................................ : MtREV
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 58895.95
+     (seconds))
+
+Model................................ : MtREV+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 58515.43
+     (seconds))
+
+Model................................ : MtREV+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.715
+ -lnL................................ = 54682.78
+     (seconds))
+
+Model................................ : MtREV+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.023
+    proportion of invariable sites... = 0.057
+ -lnL................................ = 54650.24
+     (seconds))
+
+Model................................ : MtMam
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 62877.63
+     (seconds))
+
+Model................................ : MtMam+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 62468.99
+     (seconds))
+
+Model................................ : MtMam+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.584
+ -lnL................................ = 56430.09
+     (seconds))
+
+Model................................ : MtMam+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.6
+    proportion of invariable sites... = 0.037
+ -lnL................................ = 56415.71
+     (seconds))
+
+Model................................ : MtArt
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 60978.06
+     (seconds))
+
+Model................................ : MtArt+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 60615.09
+     (seconds))
+
+Model................................ : MtArt+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.637
+ -lnL................................ = 55164.68
+     (seconds))
+
+Model................................ : MtArt+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.713
+    proportion of invariable sites... = 0.042
+ -lnL................................ = 55150.16
+     (seconds))
+
+Model................................ : Dayhoff
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 55377.73
+     (seconds))
+
+Model................................ : Dayhoff+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54723.79
+     (seconds))
+
+Model................................ : Dayhoff+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.898
+ -lnL................................ = 52300.37
+     (seconds))
+
+Model................................ : Dayhoff+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.253
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 52176.89
+     (seconds))
+
+Model................................ : WAG
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 54423.87
+     (seconds))
+
+Model................................ : WAG+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 53796.75
+     (seconds))
+
+Model................................ : WAG+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.877
+ -lnL................................ = 51506.67
+     (seconds))
+
+Model................................ : WAG+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.157
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 51412.93
+     (seconds))
+
+Model................................ : RtREV
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 55089.05
+     (seconds))
+
+Model................................ : RtREV+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54528.69
+     (seconds))
+
+Model................................ : RtREV+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.859
+ -lnL................................ = 51803.45
+     (seconds))
+
+Model................................ : RtREV+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.292
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 51735.02
+     (seconds))
+
+Model................................ : CpREV
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 54646.24
+     (seconds))
+
+Model................................ : CpREV+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54066.11
+     (seconds))
+
+Model................................ : CpREV+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.956
+ -lnL................................ = 51861.50
+     (seconds))
+
+Model................................ : CpREV+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.097
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 51777.49
+     (seconds))
+
+Model................................ : Blosum62
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 55056.93
+     (seconds))
+
+Model................................ : Blosum62+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54477.62
+     (seconds))
+
+Model................................ : Blosum62+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.93
+ -lnL................................ = 52055.54
+     (seconds))
+
+Model................................ : Blosum62+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.145
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 51981.31
+     (seconds))
+
+Model................................ : VT
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 54759.29
+     (seconds))
+
+Model................................ : VT+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 54168.44
+     (seconds))
+
+Model................................ : VT+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.909
+ -lnL................................ = 51812.81
+     (seconds))
+
+Model................................ : VT+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.245
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 51727.90
+     (seconds))
+
+Model................................ : HIVb
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 57508.99
+     (seconds))
+
+Model................................ : HIVb+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 56841.72
+     (seconds))
+
+Model................................ : HIVb+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.779
+ -lnL................................ = 53715.37
+     (seconds))
+
+Model................................ : HIVb+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.961
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 53651.76
+     (seconds))
+
+Model................................ : HIVw
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 59742.25
+     (seconds))
+
+Model................................ : HIVw+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 58970.35
+     (seconds))
+
+Model................................ : HIVw+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.814
+ -lnL................................ = 56110.98
+     (seconds))
+
+Model................................ : HIVw+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.983
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 56028.38
+     (seconds))
+
+Model................................ : FLU
+  Number of parameters............... : 719 (0 + 719 branch length estimates)
+ -lnL................................ = 56541.19
+     (seconds))
+
+Model................................ : FLU+I
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    proportion of invariable sites... = 0.061
+ -lnL................................ = 55958.16
+     (seconds))
+
+Model................................ : FLU+G
+  Number of parameters............... : 720 (1 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 0.813
+ -lnL................................ = 53114.24
+     (seconds))
+
+Model................................ : FLU+I+G
+  Number of parameters............... : 721 (2 + 719 branch length estimates)
+    gamma shape (4 rate categories).. = 1.127
+    proportion of invariable sites... = 0.06
+ -lnL................................ = 53046.71
+     (seconds))
+
+************************************************************
+Date   :  Sat Jan 26 21:57:28 EST 2019
+Runtime:  0h:53:23
+
+
+
+***************************************************************************
+Best model according to BIC: LG+I+G
+Confidence Interval: 100.0
+***************************************************************************
+Model          deltaBIC       BIC            BICw           -lnL           
+---------------------------------------------------------------------------
+LG+I+G         0.00           106325.20      1.00           51192.89       
+LG+G           130.17         106455.37      0.00           51260.71       
+WAG+I+G        440.09         106765.29      0.00           51412.93       
+WAG+G          622.10         106947.30      0.00           51506.67       
+VT+I+G         1070.02        107395.22      0.00           51727.90       
+RtREV+I+G      1084.26        107409.46      0.00           51735.02       
+CpREV+I+G      1169.20        107494.40      0.00           51777.49       
+RtREV+G        1215.66        107540.85      0.00           51803.45       
+VT+G           1234.37        107559.57      0.00           51812.81       
+CpREV+G        1331.77        107656.97      0.00           51861.50       
+Blosum62+I+G   1576.85        107902.05      0.00           51981.31       
+Blosum62+G     1719.84        108045.04      0.00           52055.54       
+JTT+I+G        1867.91        108193.11      0.00           52126.84       
+Dayhoff+I+G    1967.99        108293.19      0.00           52176.89       
+DCMut+I+G      1973.67        108298.87      0.00           52179.72       
+JTT+G          2023.16        108348.36      0.00           52207.20       
+DCMut+G        2203.93        108529.13      0.00           52297.59       
+Dayhoff+G      2209.51        108534.71      0.00           52300.37       
+FLU+I+G        3707.65        110032.85      0.00           53046.71       
+FLU+G          3837.23        110162.43      0.00           53114.24       
+HIVb+I+G       4917.74        111242.94      0.00           53651.76       
+HIVb+G         5039.50        111364.70      0.00           53715.37       
+WAG+I          5202.26        111527.46      0.00           53796.75       
+LG+I           5659.21        111984.41      0.00           54025.23       
+CpREV+I        5740.98        112066.18      0.00           54066.11       
+VT+I           5945.65        112270.85      0.00           54168.44       
+WAG            6451.04        112776.24      0.00           54423.87       
+Blosum62+I     6564.00        112889.20      0.00           54477.62       
+RtREV+I        6666.15        112991.34      0.00           54528.69       
+LG             6748.03        113073.23      0.00           54572.37       
+CpREV          6895.78        113220.98      0.00           54646.24       
+MtREV+I+G      6914.71        113239.91      0.00           54650.24       
+MtREV+G        6974.32        113299.52      0.00           54682.78       
+DCMut+I        7055.87        113381.07      0.00           54723.56       
+Dayhoff+I      7056.34        113381.54      0.00           54723.79       
+VT             7121.89        113447.08      0.00           54759.29       
+JTT+I          7287.28        113612.48      0.00           54839.26       
+Blosum62       7717.16        114042.36      0.00           55056.93       
+RtREV          7781.39        114106.59      0.00           55089.05       
+MtArt+I+G      7914.54        114239.74      0.00           55150.16       
+MtArt+G        7938.13        114263.33      0.00           55164.68       
+DCMut          8357.91        114683.11      0.00           55377.31       
+Dayhoff        8358.75        114683.95      0.00           55377.73       
+JTT            8495.73        114820.93      0.00           55446.22       
+FLU+I          9525.08        115850.27      0.00           55958.16       
+HIVw+I+G       9670.99        115996.19      0.00           56028.38       
+HIVw+G         9830.71        116155.91      0.00           56110.98       
+MtMam+I+G      10445.65       116770.85      0.00           56415.71       
+MtMam+G        10468.93       116794.13      0.00           56430.09       
+FLU            10685.68       117010.88      0.00           56541.19       
+HIVb+I         11292.20       117617.40      0.00           56841.72       
+HIVb           12621.27       118946.47      0.00           57508.99       
+MtREV+I        14639.61       120964.81      0.00           58515.43       
+MtREV          15395.19       121720.39      0.00           58895.95       
+HIVw+I         15549.46       121874.66      0.00           58970.35       
+HIVw           17087.80       123413.00      0.00           59742.25       
+MtArt+I        18838.94       125164.14      0.00           60615.09       
+MtArt          19559.43       125884.62      0.00           60978.06       
+MtMam+I        22546.74       128871.94      0.00           62468.99       
+MtMam          23358.56       129683.76      0.00           62877.63       
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+***********************************************
+Relative importance of parameters
+***********************************************
+  alpha       (+G):     0.000
+  p-inv       (+I):     0.000
+  alpha+p-inv (+I+G):   1.000
+  freqs       (+F):     No +F models
+
+***********************************************
+Model-averaged estimate of parameters
+***********************************************
+  alpha (+G):           0.813
+  p-inv (+I):           NaN
+  alpha (+I+G):         1.168
+  p-inv (+I+G):         0.061
+
+***************************************************************************
+Best model according to LnL: LG+I+G
+Confidence Interval: 100.0
+***************************************************************************
+Model          deltaLnL       LnL            LnLw           -lnL           
+---------------------------------------------------------------------------
+LG+I+G         0.00           51192.89       1.00           51192.89       
+LG+G           67.82          51260.71       0.00           51260.71       
+WAG+I+G        220.05         51412.93       0.00           51412.93       
+WAG+G          313.78         51506.67       0.00           51506.67       
+VT+I+G         535.01         51727.90       0.00           51727.90       
+RtREV+I+G      542.13         51735.02       0.00           51735.02       
+CpREV+I+G      584.60         51777.49       0.00           51777.49       
+RtREV+G        610.56         51803.45       0.00           51803.45       
+VT+G           619.92         51812.81       0.00           51812.81       
+CpREV+G        668.62         51861.50       0.00           51861.50       
+Blosum62+I+G   788.43         51981.31       0.00           51981.31       
+Blosum62+G     862.65         52055.54       0.00           52055.54       
+JTT+I+G        933.96         52126.84       0.00           52126.84       
+Dayhoff+I+G    984.00         52176.89       0.00           52176.89       
+DCMut+I+G      986.84         52179.72       0.00           52179.72       
+JTT+G          1014.31        52207.20       0.00           52207.20       
+DCMut+G        1104.70        52297.59       0.00           52297.59       
+Dayhoff+G      1107.49        52300.37       0.00           52300.37       
+FLU+I+G        1853.82        53046.71       0.00           53046.71       
+FLU+G          1921.35        53114.24       0.00           53114.24       
+HIVb+I+G       2458.87        53651.76       0.00           53651.76       
+HIVb+G         2522.48        53715.37       0.00           53715.37       
+WAG+I          2603.86        53796.75       0.00           53796.75       
+LG+I           2832.34        54025.23       0.00           54025.23       
+CpREV+I        2873.22        54066.11       0.00           54066.11       
+VT+I           2975.56        54168.44       0.00           54168.44       
+WAG            3230.99        54423.87       0.00           54423.87       
+Blosum62+I     3284.73        54477.62       0.00           54477.62       
+RtREV+I        3335.80        54528.69       0.00           54528.69       
+LG             3379.48        54572.37       0.00           54572.37       
+CpREV          3453.36        54646.24       0.00           54646.24       
+MtREV+I+G      3457.35        54650.24       0.00           54650.24       
+MtREV+G        3489.89        54682.78       0.00           54682.78       
+DCMut+I        3530.67        54723.56       0.00           54723.56       
+Dayhoff+I      3530.90        54723.79       0.00           54723.79       
+VT             3566.41        54759.29       0.00           54759.29       
+JTT+I          3646.37        54839.26       0.00           54839.26       
+Blosum62       3864.04        55056.93       0.00           55056.93       
+RtREV          3896.16        55089.05       0.00           55089.05       
+MtArt+I+G      3957.27        55150.16       0.00           55150.16       
+MtArt+G        3971.80        55164.68       0.00           55164.68       
+DCMut          4184.42        55377.31       0.00           55377.31       
+Dayhoff        4184.84        55377.73       0.00           55377.73       
+JTT            4253.33        55446.22       0.00           55446.22       
+FLU+I          4765.27        55958.16       0.00           55958.16       
+HIVw+I+G       4835.49        56028.38       0.00           56028.38       
+HIVw+G         4918.09        56110.98       0.00           56110.98       
+MtMam+I+G      5222.82        56415.71       0.00           56415.71       
+MtMam+G        5237.20        56430.09       0.00           56430.09       
+FLU            5348.30        56541.19       0.00           56541.19       
+HIVb+I         5648.83        56841.72       0.00           56841.72       
+HIVb           6316.10        57508.99       0.00           57508.99       
+MtREV+I        7322.54        58515.43       0.00           58515.43       
+MtREV          7703.06        58895.95       0.00           58895.95       
+HIVw+I         7777.46        58970.35       0.00           58970.35       
+HIVw           8549.37        59742.25       0.00           59742.25       
+MtArt+I        9422.20        60615.09       0.00           60615.09       
+MtArt          9785.18        60978.06       0.00           60978.06       
+MtMam+I        11276.10       62468.99       0.00           62468.99       
+MtMam          11684.74       62877.63       0.00           62877.63       
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+***********************************************
+Relative importance of parameters
+***********************************************
+  alpha       (+G):     0.000
+  p-inv       (+I):     0.000
+  alpha+p-inv (+I+G):   1.000
+  freqs       (+F):     No +F models
+
+***********************************************
+Model-averaged estimate of parameters
+***********************************************
+  alpha (+G):           0.813
+  p-inv (+I):           NaN
+  alpha (+I+G):         1.168
+  p-inv (+I+G):         0.061
